@@ -1,25 +1,23 @@
-#!/usr/bin/env bash
-# Download auto-generated subtitles/transcript for a YouTube video using yt-dlp.
-# Usage: bash fetch_youtube.sh <YouTube_URL>
+#!/bin/bash
+# Usage: ./scripts/fetch_youtube.sh "VIDEO_URL" "author-slug" "video-slug"
+set -e
+VIDEO_URL=$1; AUTHOR=$2; SLUG=$3
 
-set -euo pipefail
-
-URL="${1:-}"
-if [[ -z "$URL" ]]; then
-  echo "Usage: $0 <YouTube_URL>" >&2
+if [ -z "$VIDEO_URL" ] || [ -z "$AUTHOR" ] || [ -z "$SLUG" ]; then
+  echo "Usage: $0 VIDEO_URL author-slug video-slug"
   exit 1
 fi
 
-OUTPUT_DIR="$(dirname "$0")/../research/youtube-transcripts"
-mkdir -p "$OUTPUT_DIR"
+OUTDIR="research/youtube-transcripts/$AUTHOR"
+mkdir -p "$OUTDIR"
 
-echo "Fetching transcript for: $URL"
 yt-dlp \
-  --skip-download \
   --write-auto-sub \
+  --write-sub \
   --sub-lang en \
-  --sub-format vtt \
-  --output "$OUTPUT_DIR/%(upload_date)s-%(title)s.%(ext)s" \
-  "$URL"
+  --skip-download \
+  --convert-subs srt \
+  -o "$OUTDIR/$SLUG.%(ext)s" \
+  "$VIDEO_URL"
 
-echo "Done. Transcripts saved to $OUTPUT_DIR"
+echo "✅ Saved transcript for $AUTHOR / $SLUG"
