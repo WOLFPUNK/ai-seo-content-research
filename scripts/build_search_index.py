@@ -1,75 +1,67 @@
-#!/usr/bin/env python3
-"""
-Build a Whoosh full-text search index over all Markdown and text files
-in the research/ directory.
+"""Build a semantic search index over all collected content.
 
-Run:  python scripts/build_search_index.py
-Search: python scripts/build_search_index.py --query "your search terms"
+Usage:
+    python scripts/build_search_index.py        # build/refresh index
+    python scripts/build_search_index.py "your query here"
 """
-
-import argparse
 import sys
+import pickle
 from pathlib import Path
+import numpy as np
+from sentence_transformers import SentenceTransformer
 
-try:
-    from whoosh import index
-    from whoosh.fields import ID, TEXT, Schema
-    from whoosh.qparser import QueryParser
-except ImportError:
-    sys.exit("whoosh is not installed. Run: pip install whoosh")
+INDEX_DIR = Path(".embeddings")
+INDEX_DIR.mkdir(exist_ok=True)
+INDEX_PATH = INDEX_DIR / "corpus.pkl"
+MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 
-RESEARCH_DIR = Path(__file__).parent.parent / "research"
-INDEX_DIR = Path(__file__).parent.parent / "index"
-EXTENSIONS = {".md", ".txt"}
+def load_corpus():
+    docs = []
+    for p in Path("research").rglob("*.md"):
+        if p.name in ("ANNOTATION_TEMPLATE.md", "sources.md", "synthesis.md"):
+            continue
+        text = p.read_text(encoding="utf-8")
+        words = text.split()
+        if len(words) > 500:
+            for i in range(0, len(words), 400):
+                chunk = " ".join(words[i:i+500])
+                docs.append({"path": str(p), "chunk": i // 400, "text": chunk})
+        else:
+            docs.append({"path": str(p), "chunk": 0, "text": text})
+    return docs
 
-SCHEMA = Schema(
-    path=ID(stored=True, unique=True),
-    content=TEXT(stored=True),
-)
+def build_index():
+    print("Loading model...")
+    model = SentenceTransformer(MODEL_NAME)
+    docs = load_corpus()
+    print(f"Embedding {len(docs)} chunks...")
+    texts = [d["text"] for d in docs]
+    embeddings = model.encode(texts, show_progress_bar=True, convert_to_numpy=True)
+    with open(INDEX_PATH, "wb") as f:
+        pickle.dump({"docs": docs, "embeddings": embeddings}, f)
+    print(f"✅ Index built: {len(docs)} chunks → {INDEX_PATH}")
 
-
-def build_index() -> None:
-    INDEX_DIR.mkdir(exist_ok=True)
-    if index.exists_in(str(INDEX_DIR)):
-        ix = index.open_dir(str(INDEX_DIR))
-    else:
-        ix = index.create_in(str(INDEX_DIR), SCHEMA)
-
-    writer = ix.writer()
-    files = [p for p in RESEARCH_DIR.rglob("*") if p.suffix in EXTENSIONS and p.is_file()]
-    for f in sorted(files):
-        text = f.read_text(encoding="utf-8", errors="replace")
-        writer.update_document(path=str(f.relative_to(RESEARCH_DIR)), content=text)
-        print(f"Indexed: {f.relative_to(RESEARCH_DIR)}")
-    writer.commit()
-    print(f"\nIndex built at {INDEX_DIR} ({len(files)} documents)")
-
-
-def search_index(query_str: str) -> None:
-    if not index.exists_in(str(INDEX_DIR)):
-        sys.exit("No index found. Run without --query first to build it.")
-    ix = index.open_dir(str(INDEX_DIR))
-    with ix.searcher() as searcher:
-        query = QueryParser("content", ix.schema).parse(query_str)
-        results = searcher.search(query, limit=20)
-        if not results:
-            print("No results found.")
-            return
-        for hit in results:
-            print(f"\n[score {hit.score:.2f}] {hit['path']}")
-            print(hit.highlights("content") or "(no excerpt)")
-
-
-def main() -> None:
-    parser = argparse.ArgumentParser(description="Build or query the research search index.")
-    parser.add_argument("--query", "-q", help="Search query string")
-    args = parser.parse_args()
-
-    if args.query:
-        search_index(args.query)
-    else:
-        build_index()
-
+def search(query: str, k: int = 5):
+    if not INDEX_PATH.exists():
+        print("No index yet. Run without query first.")
+        return
+    model = SentenceTransformer(MODEL_NAME)
+    with open(INDEX_PATH, "rb") as f:
+        data = pickle.load(f)
+    q_emb = model.encode([query], convert_to_numpy=True)[0]
+    sims = data["embeddings"] @ q_emb / (
+        np.linalg.norm(data["embeddings"], axis=1) * np.linalg.norm(q_emb) + 1e-9
+    )
+    top = np.argsort(-sims)[:k]
+    print(f"\n🔎 Top {k} matches for: {query!r}\n")
+    for rank, idx in enumerate(top, 1):
+        d = data["docs"][idx]
+        preview = d["text"][:300].replace("\n", " ")
+        print(f"[{rank}] {sims[idx]:.3f}  {d['path']} (chunk {d['chunk']})")
+        print(f"     {preview}...\n")
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) > 1:
+        search(" ".join(sys.argv[1:]))
+    else:
+        build_index()
