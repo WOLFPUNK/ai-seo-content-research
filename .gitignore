@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+*.egg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env files
+.env
+.env.*
+!.env.example
+
+# Search index artifacts
+index/
+*.idx
+*.db
+*.sqlite
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Temporary downloads
+*.part
