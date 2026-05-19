@@ -1,0 +1,384 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.240 --> 00:00:06.080
+Search has finally evolved and now everyone wants&nbsp;
+to rank in AI search. But how? Our brilliant team&nbsp;&nbsp;
+
+00:00:06.080 --> 00:00:12.720
+at HRF studied 75,000 brands and 25 million AI&nbsp;
+overviews and found five key factors that give&nbsp;&nbsp;
+
+00:00:12.720 --> 00:00:18.800
+you the best chance of ranking in AI search with&nbsp;
+GEO. And it all starts with branded mentions.&nbsp;&nbsp;
+
+00:00:18.800 --> 00:00:24.400
+Large language models like chatbt and Google learn&nbsp;
+by reading the web. And every time your brand name&nbsp;&nbsp;
+
+00:00:24.400 --> 00:00:30.400
+appears on a credible site, that becomes another&nbsp;
+training example. And the more often an LLM sees&nbsp;&nbsp;
+
+00:00:30.400 --> 00:00:35.520
+your brand connected to a specific topic, the&nbsp;
+more confidently it associates your name with&nbsp;&nbsp;
+
+00:00:35.520 --> 00:00:40.960
+that subject when generating answers. It's like&nbsp;
+when you hear Red Bull, you think extreme sports.&nbsp;&nbsp;
+
+00:00:40.960 --> 00:00:46.480
+Or when you hear Tesla, you think electric cars.&nbsp;
+Or when you think of Ahrefs, you think of Sam O,&nbsp;&nbsp;
+
+00:00:46.480 --> 00:00:52.320
+the charismatic SEO beast. Branded mentions are so&nbsp;
+important that they have the strongest correlation&nbsp;&nbsp;
+
+00:00:52.320 --> 00:00:58.640
+with visibility in Google's AI overviews. higher&nbsp;
+than back links, referring domains, and domain&nbsp;&nbsp;
+
+00:00:58.640 --> 00:01:04.320
+rating. But how do we know which pages or sites&nbsp;
+to get mentioned on? According to our research,&nbsp;&nbsp;
+
+00:01:04.320 --> 00:01:09.200
+get mentioned on highly linked to pages if you&nbsp;
+want to rank in Google AI overviews and high&nbsp;&nbsp;
+
+00:01:09.200 --> 00:01:15.120
+traffic pages if you want more visibility in chat&nbsp;
+GPT and perplexity. To find pages and websites&nbsp;&nbsp;
+
+00:01:15.120 --> 00:01:20.720
+worth getting mentioned on, go to HF's brand&nbsp;
+radar and enter your brand, competitors, brands,&nbsp;&nbsp;
+
+00:01:20.720 --> 00:01:25.840
+niche, and run the search. Then hit the cited&nbsp;
+domains report where you'll see the top websites,&nbsp;&nbsp;
+
+00:01:25.840 --> 00:01:31.600
+the number of AI responses, and the exact number&nbsp;
+of times each brand is getting mentioned and how&nbsp;&nbsp;
+
+00:01:31.600 --> 00:01:36.000
+they're being mentioned. From here, you can join&nbsp;
+the Reddit threads AI is pulling from. Reach&nbsp;&nbsp;
+
+00:01:36.000 --> 00:01:42.000
+out to YouTubers for future reviews or contact&nbsp;
+publishers for potential PR campaigns. Basically,&nbsp;&nbsp;
+
+00:01:42.000 --> 00:01:47.520
+you want your brand to appear literally everywhere&nbsp;
+online, ideally in a positive and topically&nbsp;&nbsp;
+
+00:01:47.520 --> 00:01:53.440
+relevant way. And that's because of the second key&nbsp;
+factor for ranking an AI search. Longtail queries.&nbsp;&nbsp;
+
+00:01:53.440 --> 00:01:58.800
+In traditional SEO, targeting longtail keywords&nbsp;
+was mostly about coverage. The more queries you&nbsp;&nbsp;
+
+00:01:58.800 --> 00:02:04.320
+rank for, the more ways there are for searchers&nbsp;
+to find you. But in AI search, longtail queries&nbsp;&nbsp;
+
+00:02:04.320 --> 00:02:10.880
+play a different role. AI assistants like Chat GPT&nbsp;
+may actually use them to decide who to recommend.&nbsp;&nbsp;
+
+00:02:10.880 --> 00:02:14.800
+And it's because of how AI assistants&nbsp;
+work. When someone enters a prompt like,&nbsp;&nbsp;
+
+00:02:14.800 --> 00:02:21.120
+"Plan me a 5-day trip to Japan in November," the&nbsp;
+AI assistant fans it out into dozens of smaller&nbsp;&nbsp;
+
+00:02:21.120 --> 00:02:26.800
+longtail subqueries. They then pull information&nbsp;
+from multiple sources across the web and combine&nbsp;&nbsp;
+
+00:02:26.800 --> 00:02:32.960
+it into one complete answer. So, if your content&nbsp;
+ranks for those niche specific queries, your brand&nbsp;&nbsp;
+
+00:02:32.960 --> 00:02:38.640
+has a much better chance of being included in the&nbsp;
+AI's final response. And our data backs that up,&nbsp;&nbsp;
+
+00:02:38.640 --> 00:02:44.480
+showing that Google's AI overviews are way more&nbsp;
+likely to appear on longer niche queries. So from&nbsp;&nbsp;
+
+00:02:44.480 --> 00:02:49.920
+a practical standpoint, you should a create&nbsp;
+content that answers more complex specific&nbsp;&nbsp;
+
+00:02:49.920 --> 00:02:58.320
+questions and b content clusters that deeply cover&nbsp;
+the full depth of a topic. But here's the twist.&nbsp;&nbsp;
+
+00:02:58.320 --> 00:03:04.160
+Even if you've nailed all of this, it might not&nbsp;
+matter. Because if your content isn't structured&nbsp;&nbsp;
+
+00:03:04.160 --> 00:03:10.240
+the way AI assistants process information, you may&nbsp;
+not get as many AI search mentions as you should&nbsp;&nbsp;
+
+00:03:10.240 --> 00:03:15.280
+be getting. One way Google AI reads content&nbsp;
+is by using a tree walking algorithm, meaning&nbsp;&nbsp;
+
+00:03:15.280 --> 00:03:22.160
+it follows the exact semantic HTML structure of a&nbsp;
+web page from top to bottom. And this makes well-&nbsp;&nbsp;
+
+00:03:22.160 --> 00:03:27.600
+formatted and structured content easier for it&nbsp;
+to process. But it's not just about using heading&nbsp;&nbsp;
+
+00:03:27.600 --> 00:03:33.280
+tags and bulleted lists. It's about how your&nbsp;
+information flows. Your content should be clear,&nbsp;&nbsp;
+
+00:03:33.280 --> 00:03:39.600
+organized, and easy to follow. And this matters&nbsp;
+because when Google or Chat GPT read your page,&nbsp;&nbsp;
+
+00:03:39.600 --> 00:03:45.600
+they don't process it all at once. They chunk&nbsp;
+your content into smaller pieces, almost like&nbsp;&nbsp;
+
+00:03:45.600 --> 00:03:51.280
+reading it paragraph by paragraph, and then they&nbsp;
+decide which parts are most useful to keep. So,&nbsp;&nbsp;
+
+00:03:51.280 --> 00:03:56.480
+if your juiciest points are buried deep&nbsp;
+down or mixed into long, messy sections,&nbsp;&nbsp;
+
+00:03:56.480 --> 00:04:02.320
+it makes it less efficient for AI to process your&nbsp;
+content, which may have a role in rankings. Now,&nbsp;&nbsp;
+
+00:04:02.320 --> 00:04:07.200
+that doesn't mean you should start writing&nbsp;
+in short, choppy blurbs like an FAQ or make&nbsp;&nbsp;
+
+00:04:07.200 --> 00:04:13.200
+every paragraph its own idea. Instead, focus on&nbsp;
+grouping related thoughts together and keeping&nbsp;&nbsp;
+
+00:04:13.200 --> 00:04:18.800
+each section focused on a single takeaway.&nbsp;
+Think of it like giving AI a clear outline&nbsp;&nbsp;
+
+00:04:18.800 --> 00:04:24.320
+where each part should make sense on its own&nbsp;
+but still naturally connect to the next. Now,&nbsp;&nbsp;
+
+00:04:24.320 --> 00:04:28.800
+even if your content is perfectly written and&nbsp;
+structured, there's another key factor that&nbsp;&nbsp;
+
+00:04:28.800 --> 00:04:34.960
+can put you in or completely knock you out of AI&nbsp;
+results. And our data shows that this key factor&nbsp;&nbsp;
+
+00:04:34.960 --> 00:04:41.680
+is all about freshness. Our study of 17 million&nbsp;
+citations across seven AI search platforms found&nbsp;&nbsp;
+
+00:04:41.680 --> 00:04:47.520
+that AI assistants strongly prefer newer&nbsp;
+information. In fact, content cited by AI&nbsp;&nbsp;
+
+00:04:47.520 --> 00:04:53.760
+is 25.7% fresher than the content that shows&nbsp;
+up in regular Google results. And Chat GPT and&nbsp;&nbsp;
+
+00:04:53.760 --> 00:04:59.200
+Perplexity go even further. They tend to list&nbsp;
+citations from newest to oldest. That happens&nbsp;&nbsp;
+
+00:04:59.200 --> 00:05:04.720
+because most assistants use something called rag.&nbsp;
+RAG stands for retrieval, augment, and generation,&nbsp;&nbsp;
+
+00:05:04.720 --> 00:05:10.160
+which is the part of an AI system that goes out&nbsp;
+and looks things up. If a model already knows the&nbsp;&nbsp;
+
+00:05:10.160 --> 00:05:14.560
+answer from its training data, it doesn't need&nbsp;
+to search again. Just like you and I don't need&nbsp;&nbsp;
+
+00:05:14.560 --> 00:05:20.240
+to search for directions to places we visit all&nbsp;
+the time. But if the topic is new or evolving,&nbsp;&nbsp;
+
+00:05:20.240 --> 00:05:25.280
+Rag steps in and fetches the latest information&nbsp;
+from the web to fill in the gaps. That's why&nbsp;&nbsp;
+
+00:05:25.280 --> 00:05:30.800
+freshness isn't just a ranking signal anymore.&nbsp;
+It's a retrieval signal in this AI era. And here's&nbsp;&nbsp;
+
+00:05:30.800 --> 00:05:36.000
+proof that freshness can boost your AI rankings.&nbsp;
+In April this year, HubSpot updated their small&nbsp;&nbsp;
+
+00:05:36.000 --> 00:05:41.600
+business ideas article and soon saw a massive&nbsp;
+spike to their organic traffic. No surprises&nbsp;&nbsp;
+
+00:05:41.600 --> 00:05:49.040
+there, but their AI mentions to that page also&nbsp;
+spiked at the exact same time, generating over,00&nbsp;&nbsp;
+
+00:05:49.040 --> 00:05:54.160
+new mentions according to HR brand radar. So&nbsp;
+something you can do is to take note of pages&nbsp;&nbsp;
+
+00:05:54.160 --> 00:05:59.600
+that could benefit from regular updates and add&nbsp;
+them to your regular refresh cycle. Update facts,&nbsp;&nbsp;
+
+00:05:59.600 --> 00:06:04.160
+new quotes or stats, remove things that have&nbsp;
+become irrelevant, and redate the post when&nbsp;&nbsp;
+
+00:06:04.160 --> 00:06:08.720
+it's meaningful. And that one small update could&nbsp;
+be the difference in getting mentioned across&nbsp;&nbsp;
+
+00:06:08.720 --> 00:06:12.880
+AI platforms. By the way, I probably should&nbsp;
+have mentioned this earlier, but before you&nbsp;&nbsp;
+
+00:06:12.880 --> 00:06:19.120
+do anything, make sure your site can actually be&nbsp;
+crawled by AI bots. Kind of sounds silly, but in&nbsp;&nbsp;
+
+00:06:19.120 --> 00:06:26.800
+our study of 140 million websites, about 5.9%&nbsp;
+were blocking OpenAI's GPT bot alone. So, take&nbsp;&nbsp;
+
+00:06:26.800 --> 00:06:33.040
+two seconds to go to yourdommain.com/roots.txt&nbsp;
+and make sure you're not accidentally blocking&nbsp;&nbsp;
+
+00:06:33.040 --> 00:06:37.520
+the very systems you're trying to rank in.&nbsp;
+And that brings us to our final, easiest,&nbsp;&nbsp;
+
+00:06:37.520 --> 00:06:43.600
+and perhaps most important key factor, and it's&nbsp;
+all about diversifying your strategies. Normally,&nbsp;&nbsp;
+
+00:06:43.600 --> 00:06:48.400
+when I talk about diversifying your traffic or&nbsp;
+marketing strategy, it's because over reliance&nbsp;&nbsp;
+
+00:06:48.400 --> 00:06:53.520
+on a single channel can wipe a business out&nbsp;
+overnight, which we've seen happen time and&nbsp;&nbsp;
+
+00:06:53.520 --> 00:06:59.040
+time again. But that's not the reason you should&nbsp;
+diversify in the context of AI. In our data set,&nbsp;&nbsp;
+
+00:06:59.040 --> 00:07:05.680
+we compared the top 50 most mentioned domains in&nbsp;
+Google AI overviews, chat GBT, and Perplexity. And&nbsp;&nbsp;
+
+00:07:05.680 --> 00:07:12.960
+get this, only seven of those domains appeared&nbsp;
+on all three lists. That means that 86% of&nbsp;&nbsp;
+
+00:07:12.960 --> 00:07:18.480
+sources are unique to each assistant. Google&nbsp;
+AI overviews leans heavily on YouTube, Reddit,&nbsp;&nbsp;
+
+00:07:18.480 --> 00:07:24.480
+and Quora. Chat GPT prefers publishers and news&nbsp;
+outlets like Reuters and the Associated Press. And&nbsp;&nbsp;
+
+00:07:24.480 --> 00:07:30.560
+Perplexity tends to site niche or regional sites&nbsp;
+like health, finance, and localized blogs. So,&nbsp;&nbsp;
+
+00:07:30.560 --> 00:07:35.600
+even if you dominate one of these ecosystems, that&nbsp;
+doesn't mean that you're guaranteed to appear in&nbsp;&nbsp;
+
+00:07:35.600 --> 00:07:42.800
+the others. Hence, diversification is a must. To&nbsp;
+find the pages you need to optimize for each AI&nbsp;&nbsp;
+
+00:07:42.800 --> 00:07:48.480
+platform, go to HF's brand radar and add your&nbsp;
+brand, a few of your competitors, a niche, and&nbsp;&nbsp;
+
+00:07:48.480 --> 00:07:54.160
+run the search. Hover over your brand under the AI&nbsp;
+platform you want to investigate, and hit others&nbsp;&nbsp;
+
+00:07:54.160 --> 00:07:59.360
+only. Finally, go to the cited pages report to see&nbsp;
+all of the web pages that are being recommended in&nbsp;&nbsp;
+
+00:07:59.360 --> 00:08:04.640
+your AI platform of choice where your competitors&nbsp;
+are mentioned, but you're not. Then, go and reach&nbsp;&nbsp;
+
+00:08:04.640 --> 00:08:09.120
+out to these websites to try and get your brand&nbsp;
+mentioned alongside your competitors. And when&nbsp;&nbsp;
+
+00:08:09.120 --> 00:08:14.080
+you're done with that AI platform, hit the drop&nbsp;
+down, choose the next AI platform you want to be&nbsp;&nbsp;
+
+00:08:14.080 --> 00:08:20.560
+mentioned on, and rinse and repeat. Now, a lot of&nbsp;
+this advice might sound familiar because doing GEO&nbsp;&nbsp;
+
+00:08:20.560 --> 00:08:28.720
+or AEO or LMO is still just SEO. The difference&nbsp;
+is that you got to think broader. It's not just&nbsp;&nbsp;
+
+00:08:28.720 --> 00:08:33.920
+about content and links anymore. It's about&nbsp;
+building a brand and showing up everywhere&nbsp;&nbsp;
+
+00:08:33.920 --> 00:08:39.920
+your audience already is. But here's the truth.&nbsp;
+No one's really saying out loud. No one actually&nbsp;&nbsp;
+
+00:08:39.920 --> 00:08:46.400
+knows how to definitively optimize for AI search&nbsp;
+yet. It's still too early. For now, all we have&nbsp;&nbsp;
+
+00:08:46.400 --> 00:08:52.960
+is the data we've analyzed. And now we need more&nbsp;
+practitioners to go out there, test, and share the&nbsp;&nbsp;
+
+00:08:52.960 --> 00:09:00.800
+results. And one of those practitioners is already&nbsp;
+testing so we can build that step-by-step playbook&nbsp;&nbsp;
+
+00:09:00.800 --> 00:09:04.880
+for you to follow. So, make sure to subscribe&nbsp;
+for updates, and I'll see you in the next video.
+

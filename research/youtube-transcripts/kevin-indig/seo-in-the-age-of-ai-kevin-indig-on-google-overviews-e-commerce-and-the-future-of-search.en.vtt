@@ -1,0 +1,2628 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.000 --> 00:00:04.237
+If Google's AI overviews are killing your organic clicks, you're not imagining it.
+
+00:00:04.237 --> 00:00:07.907
+But the real shift might be even bigger. Clicks are no longer the point.
+
+00:00:07.907 --> 00:00:14.247
+Kevin Indig is a longtime SEO advisor, strategist, and the creator of the popular growth Memo newsletter.
+
+00:00:14.247 --> 00:00:17.751
+He's worked with brands like Shopify, Meta, and Ramp. 
+
+00:00:17.751 --> 00:00:22.088
+But now he's focused on helping companies adapt to a new search landscape where visibility 
+
+00:00:22.088 --> 00:00:25.525
+doesn't always lead to traffic and trust Trump's ranking.
+
+00:00:25.525 --> 00:00:32.499
+In this conversation, we dig into Kevin's latest research on how AI overviews are reshaping user behavior on Google
+
+00:00:32.499 --> 00:00:35.335
+and what that means for brands heading into Q4. 
+
+00:00:35.335 --> 00:00:41.608
+We unpack why product grids are disappearing, how Reddit and YouTube are suddenly influencing chatbot results
+
+00:00:41.608 --> 00:00:46.146
+and why content simplicity and structure are now SEO power plays.
+
+00:00:46.446 --> 00:00:50.850
+Plus, Kevin shares what's working and what's not when it comes to LLM optimization
+
+00:00:50.850 --> 00:00:54.788
+AI-first content, and evolving SEO KPIs.
+
+00:00:54.788 --> 00:00:59.826
+As Kevin puts it, search is not just about clicks anymore. It's about answers and influence
+
+00:00:59.826 --> 00:01:02.495
+and making peace with a fractured marketing funnel.
+
+00:01:02.495 --> 00:01:05.665
+Kevin built his reputation optimizing for Google's rules.
+
+00:01:05.665 --> 00:01:08.768
+Now he's advising brands on whether to block it altogether.
+
+00:01:08.768 --> 00:01:12.705
+That tension between visibility and value runs through this entire episode.
+
+00:01:12.705 --> 00:01:17.777
+If you're trying to navigate this next chapter of search, Kevin's already operating in that future.
+
+00:01:17.777 --> 00:01:19.779
+In this episode, he shows us how.
+
+00:01:19.779 --> 00:01:20.613
+Here we go.
+
+00:01:30.190 --> 00:01:34.027
+Welcome to another exciting episode of the Page 2 Podcast.
+
+00:01:34.027 --> 00:01:40.500
+I'm Jon Clark and as always, joined by my partner in crime at Moving Traffic Media, Joe DeVita.
+
+00:01:40.500 --> 00:01:43.970
+Today we're very excited to welcome Kevin Indig to the show.
+
+00:01:44.204 --> 00:01:45.872
+Just as excited to be on.
+
+00:01:46.606 --> 00:01:48.341
+I think you have the best response so far.
+
+00:01:48.341 --> 00:01:54.848
+And you were a guest back in 2021, episode I think it was 72 or 73.
+
+00:01:54.848 --> 00:02:00.954
+And a lot has changed since then, both in your sort of personal career trajectory
+
+00:02:00.954 --> 00:02:03.189
+but also in the landscape of search.
+
+00:02:03.189 --> 00:02:05.525
+So excited to dig into a lot of that.
+
+00:02:05.525 --> 00:02:08.661
+But before we get into that, the first question, I know you're a fellow
+
+00:02:08.661 --> 00:02:12.732
+uh coffee connoisseur, what beans did you grind this morning?
+
+00:02:12.732 --> 00:02:15.201
+Philtered Soul by Philz.
+
+00:02:15.301 --> 00:02:16.903
+Philz is a...
+
+00:02:16.903 --> 00:02:18.805
+Okay, I see some reactions here.
+
+00:02:18.805 --> 00:02:19.873
+Probably familiar.
+
+00:02:19.906 --> 00:02:23.309
+I spent a lot of time in the San Francisco Bay Area, I fell in love with Philz.
+
+00:02:23.309 --> 00:02:26.279
+And look, I was born and raised in Germany, right?
+
+00:02:26.279 --> 00:02:28.248
+I know German coffee, which is not...
+
+00:02:28.248 --> 00:02:29.349
+It's okay, right?
+
+00:02:29.349 --> 00:02:33.019
+But Italian coffee, French coffee, very used to that.
+
+00:02:33.019 --> 00:02:36.923
+And then had my reservations about American coffee, but Philz really is different.
+
+00:02:36.923 --> 00:02:38.091
+It's pour-over coffee
+
+00:02:38.091 --> 00:02:41.361
+I try to import it to Germany where I live now.
+
+00:02:41.361 --> 00:02:42.829
+But it's tricky.
+
+00:02:42.829 --> 00:02:49.802
+Anyway, that's my favorite coffee and my morning ritual is to grind the beans, do the pour over, takes a bit of time.
+
+00:02:49.802 --> 00:02:54.040
+But the smell and the taste and everything is really activating my brain for work.
+
+00:02:54.040 --> 00:02:56.743
+It's very therapeutic, the process of
+
+00:02:56.809 --> 00:02:58.878
+making coffee and those smells.
+
+00:02:58.878 --> 00:03:01.381
+I took the uh easy way out this morning.
+
+00:03:02.749 --> 00:03:05.652
+Yeah, it's therapeutic and it's a ritual, you know
+
+00:03:05.652 --> 00:03:11.424
+there's this famous coffee ritual by the design team that designed the first iPhone.
+
+00:03:11.424 --> 00:03:16.229
+And they of course had this $30,000, $50,000 Italian coffee machine, but
+
+00:03:16.229 --> 00:03:20.166
+the team came together every morning and really took their time frothing the milk, you know
+
+00:03:20.166 --> 00:03:23.169
+ grinding the beans, making the espresso, getting it right.
+
+00:03:23.169 --> 00:03:25.772
+And that set the stage and the tone for good work.
+
+00:03:25.772 --> 00:03:28.908
+And I try to mimic and embody that every day. And it helps.
+
+00:03:28.908 --> 00:03:30.243
+I love that, love that.
+
+00:03:30.243 --> 00:03:36.349
+The Siphon coffee makers are always very beautiful to watch and very therapeutic as well.
+
+00:03:36.349 --> 00:03:37.483
+But enough about coffee.
+
+00:03:37.483 --> 00:03:40.553
+Growth Memo, I think the last post
+
+00:03:40.553 --> 00:03:45.024
+that I read went out to over 21,000 subscribers and I went back and listened
+
+00:03:45.024 --> 00:03:50.697
+to the episode from 2021 and you sort of described yourself as not a writer, which I think 
+
+00:03:50.697 --> 00:03:53.833
+I would disagree with, but probably also those subscribers as well.
+
+00:03:53.833 --> 00:03:55.134
+Do you still feel that way?
+
+00:03:55.134 --> 00:03:57.337
+You're putting out a lot of content.
+
+00:03:57.337 --> 00:04:01.874
+Yeah, and by the way, congratulations for sticking to the podcast for that long.
+
+00:04:01.874 --> 00:04:07.080
+You know, you mentioned it, but I know firsthand what it's like to follow a project for that long.
+
+00:04:07.080 --> 00:04:10.116
+And I think it speaks to the passion.
+
+00:04:10.116 --> 00:04:14.721
+I think you cannot endure a project like that without really enjoying at least a big part of the process.
+
+00:04:14.721 --> 00:04:18.725
+To answer your question, I still, I obviously write.
+
+00:04:18.725 --> 00:04:21.194
+Maybe I'm a writer to degree.
+
+00:04:21.194 --> 00:04:24.897
+And I still have my reservations, for example, about terms like content creator.
+
+00:04:24.897 --> 00:04:25.465
+I don't...
+
+00:04:25.465 --> 00:04:28.268
+I create content, but I don't see myself as a content creator.
+
+00:04:28.268 --> 00:04:32.939
+I see myself much more as somebody who reflects on what they see in the field.
+
+00:04:32.939 --> 00:04:34.874
+So I still work with a lot of clients.
+
+00:04:34.874 --> 00:04:40.913
+That's actually like 80 % of my time and money for the matter comes from working with companies directly.
+
+00:04:40.913 --> 00:04:48.021
+And so I see myself more as somebody who shares observations and experiences with others than a writer.
+
+00:04:48.021 --> 00:04:54.627
+And I say that by having the highest respect and admiration of writers and content generation in general.
+
+00:04:54.627 --> 00:04:57.563
+I think it's an art form. I know it's an art form. 
+
+00:04:57.563 --> 00:05:02.135
+I don’t see myself as a full-time creator, much more somebody who shares experiences.
+
+00:05:02.135 --> 00:05:03.703
+It does put it in a different perspective.
+
+00:05:03.703 --> 00:05:11.911
+And I think when you're sharing perspectives or things that you're just observing, that act of writing becomes much easier, right?
+
+00:05:11.911 --> 00:05:14.013
+Because you're not tied to writing something.
+
+00:05:14.013 --> 00:05:15.882
+You're just sort of sharing experience. I love that.
+
+00:05:15.882 --> 00:05:22.388
+You had a goal of moving more into video content. Moving into 2025
+
+00:05:22.388 --> 00:05:24.290
+You do these great wrap-ups of
+
+00:05:24.290 --> 00:05:27.560
+sort of what was successful, what wasn't, what was goals for the coming year.
+
+00:05:27.560 --> 00:05:31.764
+And just following you on LinkedIn, I have definitely seen more and more of that.
+
+00:05:31.764 --> 00:05:33.566
+How are you sort of pacing toward that goal?
+
+00:05:33.566 --> 00:05:39.872
+And I guess, how does that fit into the growth memo, which is more of like a newsletter style?
+
+00:05:39.872 --> 00:05:43.009
+I would say I'm behind that goal, to be completely honest.
+
+00:05:43.009 --> 00:05:48.081
+I share more video. You know, I had some good traction, I would say a couple of months ago
+
+00:05:48.081 --> 00:05:55.488
+of creating YouTube videos rather than cutting out snippets from podcasts or webinars.
+
+00:05:55.488 --> 00:05:58.524
+And so, I'm behind on my goal.
+
+00:05:58.825 --> 00:06:06.299
+It was originally driven by the realization and observation of how important video has become, right?
+
+00:06:06.299 --> 00:06:10.837
+It's for many different perspectives, but for companies, as a, I would say
+
+00:06:10.837 --> 00:06:14.941
+brand building channel, as a medium for people to consume information.
+
+00:06:14.941 --> 00:06:17.910
+And so that tempted me to get more into video.
+
+00:06:17.910 --> 00:06:23.282
+I still have that temptation and it's a completely different workflow than what I do right now.
+
+00:06:23.282 --> 00:06:27.887
+And so I've tried a couple of attempts to make my workflow video first.
+
+00:06:27.887 --> 00:06:33.226
+It's not yet exactly where I want it to be, but I'm iterating behind the scenes on different ways to get there.
+
+00:06:33.226 --> 00:06:38.564
+The thing is that I also spoke to a lot of my readers, and a lot of them loved the long form reading.
+
+00:06:38.564 --> 00:06:41.167
+I think that's part of the challenge, right?
+
+00:06:41.167 --> 00:06:44.537
+When you start a newsletter, then obviously you attract people who like to read.
+
+00:06:44.537 --> 00:06:50.343
+And so if you then switch to video, it's a bit harder because that is against
+
+00:06:50.343 --> 00:06:53.479
+kind of the way that people adopted the product in the first place.
+
+00:06:53.479 --> 00:06:56.883
+I'm playing around with what that looks like.
+
+00:06:56.883 --> 00:07:02.221
+I've done a bunch of different things, you know, from like the videos that I have created
+
+00:07:02.221 --> 00:07:06.993
+with live streams from my premium audience to some of the YouTube content that I've created.
+
+00:07:06.993 --> 00:07:15.001
+And so I still want to get deeper and more into video, while also not abandoning people who like to read long form.
+
+00:07:15.001 --> 00:07:16.102
+It's sort of interesting.
+
+00:07:16.102 --> 00:07:21.407
+I was taking some of the long form content, dropping it into Notebook LM
+
+00:07:21.407 --> 00:07:25.978
+in preparation for this and just sort of listening to it while I was playing with my daughter
+
+00:07:25.978 --> 00:07:26.779
+doing whatever else.
+
+00:07:26.779 --> 00:07:31.918
+So that's one way you can sort of, at least for me, take that long form and move it into
+
+00:07:31.918 --> 00:07:36.656
+a different medium that you can still digest without having to sit down and sort of absorb it.
+
+00:07:36.656 --> 00:07:39.859
+But I wanted to maybe transition into one of those
+
+00:07:40.026 --> 00:07:49.001
+longer form pieces. You did a great study both in 2024 and then sort of compared that in 2025 across sort of the e-commerce landscape.
+
+00:07:49.001 --> 00:07:53.940
+And it's probably very timely sort of moving into PQ4, right?
+
+00:07:53.940 --> 00:08:02.248
+So maybe just for the listeners, get an overview of what that study was, and maybe a couple of the key insights that sort of came out of that.
+
+00:08:02.248 --> 00:08:07.086
+I found it really interesting and maybe not surprising just in terms of how
+
+00:08:07.086 --> 00:08:08.754
+much Google has been changing.
+
+00:08:08.754 --> 00:08:09.155
+Thank you.
+
+00:08:09.155 --> 00:08:14.393
+I had an opportunity to look at 35,000 queries provided by SEO Clarity
+
+00:08:14.393 --> 00:08:18.831
+and focused on the search features that we're seeing for these queries specifically.
+
+00:08:18.831 --> 00:08:23.970
+So rather than just looking at who's dominating for these queries in classical organic search
+
+00:08:23.970 --> 00:08:30.343
+I was curious what do shopping ads, local packs, product grids, AI overviews, image carousels,
+
+00:08:30.343 --> 00:08:31.878
+etcetera, look like over time?
+
+00:08:31.878 --> 00:08:33.646
+And what I found is that
+
+00:08:33.646 --> 00:08:36.349
+I would probably say there are three bigger realizations.
+
+00:08:36.349 --> 00:08:41.153
+One, interestingly, AI overviews are starting to replace product grids.
+
+00:08:41.153 --> 00:08:42.221
+Now, I want to be cautious.
+
+00:08:42.221 --> 00:08:44.790
+AI overviews are only showing up for fractions still, right?
+
+00:08:44.790 --> 00:08:47.260
+This is a small trend that is growing rapidly.
+
+00:08:47.260 --> 00:08:51.864
+But you can see that as AI overviews are getting more traction in the search results
+
+00:08:51.864 --> 00:08:54.600
+product grids are losing traction.
+
+00:08:54.600 --> 00:08:57.036
+And it's a very interesting shift, in my opinion, because...
+
+00:08:57.036 --> 00:08:59.705
+Google was very aggressive about showing product grids.
+
+00:08:59.705 --> 00:09:02.575
+When I did that analysis the first time in 2024
+
+00:09:02.575 --> 00:09:09.081
+I think Google had already shown around 40-ish percent of keywords were showing product grids.
+
+00:09:09.081 --> 00:09:14.520
+And I mean, product grids are essentially a different experience of search compared to classical organic results.
+
+00:09:14.520 --> 00:09:19.625
+It's much more visual grid style way of exploring products.
+
+00:09:19.625 --> 00:09:21.327
+And it seems like a year later,
+
+00:09:21.327 --> 00:09:29.702
+AI is the dominating kind of vehicle for shopping results, is starting to become the dominating vehicle for shopping results.
+
+00:09:29.702 --> 00:09:31.137
+So that was interesting.
+
+00:09:31.137 --> 00:09:38.678
+Two, Google has dialed up the number of image carousels so far that this is not the most prominent search feature.
+
+00:09:38.678 --> 00:09:43.749
+So if you're thinking about how does Google augment the search results the most, it's with images.
+
+00:09:43.749 --> 00:09:47.620
+And again, it kind of makes sense because it's very, very similar to product grids.
+
+00:09:47.620 --> 00:09:50.690
+The difference might be that when you click on an image you don't get to a product page
+
+00:09:50.690 --> 00:09:53.292
+but apart from that, shopping is visual, right?
+
+00:09:53.292 --> 00:09:57.663
+And you see that also on TikTok, on Instagram, a little bit on YouTube
+
+00:09:57.663 --> 00:10:03.569
+that these platforms are primary discovery drivers in shopping.
+
+00:10:03.569 --> 00:10:10.843
+And then maybe as a third surprise to me at least is that the degree of, or the amount of keywords that are showing a discussions
+
+00:10:10.843 --> 00:10:14.213
+and forums' search feature is decreasing.
+
+00:10:14.213 --> 00:10:18.084
+So we all know that Reddit is one of the largest sites now on the web.
+
+00:10:18.084 --> 00:10:19.585
+It's probably in my data,
+
+00:10:19.585 --> 00:10:23.389
+it's the second largest site on the web, showing up for all sorts of queries.
+
+00:10:23.389 --> 00:10:27.560
+And I noticed that counter to the trend, to the overall trend, in e-commerce
+
+00:10:27.560 --> 00:10:33.299
+the number of Reddit results, at least for the discussions and forums, search is actually going down.
+
+00:10:33.299 --> 00:10:38.004
+So it seems like that in that sense, Google still shows Reddit results, but not anymore
+
+00:10:38.004 --> 00:10:39.739
+in this specific pack.
+
+00:10:39.739 --> 00:10:43.843
+And so it was interesting to me because my experience observation
+
+00:10:43.843 --> 00:10:46.746
+is that people really do want opinions from others when it comes to shopping
+
+00:10:46.746 --> 00:10:50.282
+meaning from others that are not affiliates or otherwise incentivized.
+
+00:10:50.282 --> 00:10:51.717
+But that seems to be going down for now.
+
+00:10:51.717 --> 00:10:53.919
+And maybe it's just a Google test and they ramp it back up.
+
+00:10:53.919 --> 00:10:55.588
+But that's the data as I see it today.
+
+00:10:55.588 --> 00:10:59.091
+It's definitely interesting and it maybe forces folks to think differently 
+
+00:10:59.091 --> 00:11:05.631
+when it comes to advertising and making Q4 pushes for Black Friday and Cyber Monday
+
+00:11:05.631 --> 00:11:06.565
+those sorts of dates.
+
+00:11:06.565 --> 00:11:11.504
+Do you have any thoughts on how your clients should approach something like that
+
+00:11:11.504 --> 00:11:15.107
+given how the SERP is changing and modifying.
+
+00:11:15.107 --> 00:11:19.211
+Yes, the thing is that these kind of shopping holidays, I mean, they're stretching out
+more and more, right?
+
+00:11:19.211 --> 00:11:21.647
+Yes, the thing is that these kind of shopping holidays, I mean, they're stretching out
+more and more, right?
+
+00:11:21.647 --> 00:11:26.819
+There's a lot of data about how BFCM, Black Friday, Ciber Monday, starts earlier and earlier
+every year.
+
+00:11:26.819 --> 00:11:34.360
+And also last year and probably this year is also a bit tainted by the economic impact on shopping behavior.
+
+00:11:34.360 --> 00:11:36.929
+It seems that there's some price sensitivity.
+
+00:11:36.929 --> 00:11:40.533
+People are looking more for sales and discounts and promotions.
+
+00:11:40.533 --> 00:11:43.035
+I mean, it kind of makes sense. The whole holiday is around promotions
+
+00:11:43.035 --> 00:11:48.574
+but this year and last year, for sure, people were a lot more sensitive to that than in the previous years.
+
+00:11:48.574 --> 00:11:56.949
+And so, my recommendation is to start early with a discount strategy and then try to stretch that over the holidays.
+
+00:11:56.949 --> 00:11:59.018
+So don't discount all your products on day one,
+
+00:11:59.018 --> 00:12:02.521
+but maybe you want to start in... let's say,
+
+00:12:02.521 --> 00:12:07.660
+maybe in October to discount a couple of products. And then maybe every week you have a different category or so
+
+00:12:07.660 --> 00:12:11.864
+or maybe a featured product that is being discounted as under the umbrella of BFCM.
+
+00:12:11.864 --> 00:12:16.802
+You know, according to the data, promoting that across forums is probably less important now.
+
+00:12:16.802 --> 00:12:19.905
+Having good visuals for that is probably a little bit more important.
+
+00:12:19.905 --> 00:12:22.341
+So, one example is when you have product pages.
+
+00:12:22.341 --> 00:12:24.643
+And you typically have a couple of different product images.
+
+00:12:24.643 --> 00:12:29.181
+Maybe one of these product images, maybe the preferred one, the main one that people see
+first
+
+00:12:29.181 --> 00:12:33.185
+Maybe that has, like, a little discount, or promotion or BFCM label on it, right?
+
+00:12:33.185 --> 00:12:35.321
+So playing and toying around with that a little bit.
+
+00:12:35.321 --> 00:12:37.723
+And then when it comes to AI overviews, I'm pretty sure that
+
+00:12:37.723 --> 00:12:44.029
+the searches for products plus Black Friday, Cyber Monday or Black Friday or just Cyber Monday
+
+00:12:44.029 --> 00:12:50.636
+you know, these iterations, these BFCM related queries, I'm pretty sure that they're going to start growing
+
+00:12:50.636 --> 00:12:53.105
+at the end of September, maybe early October, maybe even earlier.
+
+00:12:53.105 --> 00:12:56.942
+And the guidance that I give to my clients is to start monitoring
+
+00:12:56.942 --> 00:13:01.914
+where AI are showing up for these types of queries, what they look like. And if you have
+
+00:13:01.914 --> 00:13:05.718
+the corresponding content for that, and maybe even coverage on other sites, right?
+
+00:13:05.718 --> 00:13:10.089
+So, you definitely want to have at least one landing page for BFCM for every year.
+
+00:13:10.089 --> 00:13:12.591
+Not the same one, but a new one every year.
+
+00:13:12.591 --> 00:13:17.062
+Maybe you can use some of your backlinks to all the ones to link to the new one, etcetera.
+
+00:13:17.062 --> 00:13:20.833
+So that’s some content strategy around BFCM to address AI overviews.
+
+00:13:20.833 --> 00:13:23.469
+Yeah, that's probably kind of my strategy in a nutshell for that.
+
+00:13:23.469 --> 00:13:27.273
+Got it, I thought that one thing that was sort of interesting about that study
+
+00:13:27.273 --> 00:13:28.974
+was the, like you said
+
+00:13:28.974 --> 00:13:34.613
+the decrease in maybe discussions, forums, maybe people also ask and things like that,
+
+00:13:34.613 --> 00:13:43.556
+ which if we take that to one of your other studies around sort of like LLMs and content
+structure is a little bit in conflict, right?
+
+00:13:43.556 --> 00:13:45.724
+Because one of the recommendations,
+
+00:13:45.724 --> 00:13:50.629
+not just from you, but from others in terms of how LLMs are interpreting that data, right?
+
+00:13:50.629 --> 00:13:54.767
+like FAQs and question and answer formats and things like that make a lot of sense.
+
+00:13:54.767 --> 00:13:56.635
+So maybe we can jump to that study a little bit.
+
+00:13:56.635 --> 00:13:59.939
+So, you know, you looked across a number of different chatbots.
+
+00:13:59.939 --> 00:14:05.444
+Maybe take the listeners through some of the key findings across each one of those, that really sort of stood out.
+
+00:14:05.444 --> 00:14:07.847
+There's definitely some similarities across all
+
+00:14:07.847 --> 00:14:12.318
+but, I think some of the nuances were really interesting to dig into.
+
+00:14:12.318 --> 00:14:12.918
+Absolutely.
+
+00:14:12.918 --> 00:14:17.957
+So what's interesting is that it turns out that the dominant chatbots rely on
+
+00:14:17.957 --> 00:14:23.963
+a very different mix of sources when it comes to how they give their answers.
+
+00:14:23.963 --> 00:14:27.900
+So what it means is chatGTP, for example, relies very heavily on Wikipedia.
+
+00:14:27.900 --> 00:14:30.402
+Perplexity relies a lot more on Reddit.
+
+00:14:30.402 --> 00:14:32.504
+Google also relies a lot more on Reddit, right?.
+
+00:14:32.504 --> 00:14:34.640
+Perplexity emulates Google a lot
+
+00:14:34.640 --> 00:14:39.678
+very Google heavy. And then, you know, all the other chatbots from Copilot to Gemini, etc.
+
+00:14:39.678 --> 00:14:45.784
+They all have kind of their own mix of sources when it comes to the citations to give answers.
+
+00:14:45.784 --> 00:14:50.689
+Which in return means that if you want to optimize for visibility on these chatbots
+
+00:14:50.689 --> 00:14:54.560
+you might want to set a different emphasis based on which one is most important to you.
+
+00:14:54.560 --> 00:14:59.198
+I would say most of my clients see the biggest returns from ChatGPT.
+
+00:14:59.198 --> 00:15:00.733
+That seems to be the dominant one.
+
+00:15:00.733 --> 00:15:06.739
+It's far ahead of anyone else. When we look at just the traffic going to ChatGPT
+
+00:15:06.739 --> 00:15:10.910
+ which I think strongly kind of correlates probably with users.
+
+00:15:10.910 --> 00:15:14.613
+And then have Gemini growing the fastest.
+
+00:15:14.613 --> 00:15:16.148
+I think they're now in second place
+
+00:15:16.148 --> 00:15:21.987
+and then Claude, Grok, Copilot, Perplexity, and DeepSeek and all the others.
+
+00:15:21.987 --> 00:15:24.456
+So, most people get the biggest returns from ChatGTP.
+
+00:15:24.456 --> 00:15:26.025
+And so what that means is...
+
+00:15:26.025 --> 00:15:27.293
+influencing Wikipedia is hard.
+
+00:15:27.293 --> 00:15:31.363
+It might be worth a second look just to make sure that as a company
+
+00:15:31.363 --> 00:15:35.534
+you're accurately represented, there's no information gap.
+
+00:15:35.534 --> 00:15:39.171
+If that's the case, I think it's more than a fair pitch to to try to correct that.
+
+00:15:39.171 --> 00:15:44.176
+But again, the Wikipedia defenses are incredibly strong, very strong immune system
+
+00:15:44.176 --> 00:15:47.646
+that quickly rejects any attempt to tamper with the pages.
+
+00:15:47.646 --> 00:15:48.881
+But it's worth a look and a try.
+
+00:15:48.881 --> 00:15:49.581
+After that,
+
+00:15:49.581 --> 00:15:52.685
+Reddit has become a lot more impactful when it comes to ChatGPT.
+
+00:15:52.685 --> 00:15:57.222
+I used in the beginning there was no visibility at all from Reddit.
+
+00:15:57.222 --> 00:16:00.492
+Now, that has jumped up overnight.
+
+00:16:00.492 --> 00:16:01.493
+I have to look at the dates again.
+
+00:16:01.493 --> 00:16:04.430
+I think it was maybe sometime in May this year.
+
+00:16:04.430 --> 00:16:07.833
+And it could be due to the partnership that OpenAI has with Reddit
+
+00:16:07.833 --> 00:16:09.568
+that it just kind of turned the switch on.
+
+00:16:09.568 --> 00:16:15.407
+Now it seems like over 5%, maybe at this point more than citations come from Reddit actually.
+
+00:16:15.407 --> 00:16:16.942
+So that now becomes a viable
+
+00:16:16.942 --> 00:16:20.412
+optimization platform, but then there's also LinkedIn and YouTube.
+
+00:16:20.412 --> 00:16:23.983
+Both of these are, I think, maybe LinkedIn, not in the Black Hat community
+
+00:16:23.983 --> 00:16:32.091
+but I think in general they're a little bit overlooked as ways to influence AI answers, right?
+
+00:16:32.091 --> 00:16:35.194
+And so things that I'm pushing with my clients is
+
+00:16:35.194 --> 00:16:41.066
+for example, to create YouTube videos for specific prompts that were maybe not visible for
+
+00:16:41.066 --> 00:16:42.735
+And then LinkedIn, uh what's it called?
+
+00:16:42.735 --> 00:16:49.641
+LinkedIn Newsletters or LinkedIn Pulse, I think, is another very popular source with OpenAI.
+
+00:16:49.641 --> 00:16:55.080
+And of course, some of that could be questionable because it is used for maybe some shady tactics
+
+00:16:55.080 --> 00:17:03.789
+but the reality is that these kind of social content platforms have an outsized impact on ChatGPT.
+
+00:17:03.789 --> 00:17:08.127
+And then when comes to software reviews, for example, we have players like G2
+
+00:17:08.127 --> 00:17:09.528
+when it comes to health, we have Healthline.
+
+00:17:09.528 --> 00:17:13.699
+So every niche, of course, has its predominant citation source
+
+00:17:13.699 --> 00:17:20.005
+but overall, anything that is UGC and content-driven has an outsizing impact.
+
+00:17:20.005 --> 00:17:25.577
+Yeah, I think it was Lily Ray who showed how easy it was to manipulate
+
+00:17:25.577 --> 00:17:29.782
+with a LinkedIn newsletter pulse or whatever they're called
+
+00:17:29.782 --> 00:17:34.019
+just to say like, who's the best SEO and that sort of thing.
+
+00:17:34.019 --> 00:17:40.759
+The other thing that I saw, which I think aligns really well with this study was someone
+totally escaping me.
+
+00:17:40.759 --> 00:17:44.963
+But basically, if you monitor perplexities like trending searches,
+
+00:17:44.963 --> 00:17:50.035
+ and you can spin up a video really quickly, you'll basically own, you know, that citation.
+
+00:17:50.035 --> 00:17:54.273
+So yeah, think the folks who want to, I don't know if spam is the right word
+
+00:17:54.273 --> 00:18:01.413
+but manipulate these engines quickly are finding ways to do that relatively easily at this point.
+
+00:18:01.413 --> 00:18:05.517
+I think one of the things that was really interesting from the study was who was not
+
+00:18:05.517 --> 00:18:09.688
+being included, Like CNET and some of these other really large players
+
+00:18:09.688 --> 00:18:17.362
+seem to be mostly related to just blocking the crawlers outright through robots.txt.
+
+00:18:17.362 --> 00:18:19.431
+I wanted to, we've had a couple of conversations with guests around this.
+
+00:18:19.431 --> 00:18:22.234
+Like what are your, you advise a lot of really big brands.
+
+00:18:22.234 --> 00:18:26.438
+What do you, or how do you advise them if they come to you and say
+
+00:18:26.438 --> 00:18:29.908
+We really don't want to give our content away for free.
+
+00:18:29.908 --> 00:18:32.744
+We're proposing just blocking everything.
+
+00:18:32.744 --> 00:18:35.547
+How do you tackle that conversation?
+
+00:18:35.547 --> 00:18:40.185
+And maybe just generally, what are your thoughts around companies that are doing that today?
+
+00:18:40.185 --> 00:18:42.154
+I can very much empathize with that decision.
+
+00:18:42.154 --> 00:18:46.825
+I think the first step is always to do a simple ROI calculation.
+
+00:18:46.825 --> 00:18:52.965
+What are we getting today from AI chatbots, but also from Google?
+
+00:18:52.965 --> 00:18:55.701
+I think that decision is also on the table.
+
+00:18:56.034 --> 00:18:57.102
+And what are we getting?
+
+00:18:57.102 --> 00:18:58.937
+uh What are we giving?
+
+00:18:58.937 --> 00:19:01.340
+What is the cost to create the content?
+
+00:19:01.340 --> 00:19:05.210
+What's the risk profile or degree of risk today
+
+00:19:05.210 --> 00:19:10.282
+versus the next three years if these trends keep trending the way that they are right now.
+
+00:19:10.282 --> 00:19:12.317
+But then also, like, what could we get down the line?
+
+00:19:12.317 --> 00:19:18.857
+I haven't published this data yet, but according to SimilarWeb, ChatGPT has been growing by over 700 % year over year.
+
+00:19:18.857 --> 00:19:25.464
+So when you compare 25 to 24, you see a 700 % increase in outgoing traffic.
+
+00:19:25.464 --> 00:19:27.132
+Does not mean that you're
+
+00:19:27.132 --> 00:19:30.102
+traffic will grow by 7x or 8x necessarily.
+
+00:19:30.102 --> 00:19:34.773
+But it just means that these AI chatbots seem to be very interested in sending out more traffic.
+
+00:19:34.773 --> 00:19:37.543
+And again, new model is just out, ChatGPT 5.
+
+00:19:37.543 --> 00:19:40.245
+We need to kind of keep monitoring that trend.
+
+00:19:40.245 --> 00:19:43.315
+The point that I'm making is you cannot just look at what you're getting now.
+
+00:19:43.315 --> 00:19:45.417
+You have to kind of extrapolate that in the future.
+
+00:19:45.417 --> 00:19:49.888
+Are we maybe getting to a significant degree of AI chatbot traffic that could offset
+
+00:19:49.888 --> 00:19:51.857
+some of the losses that we're seeing from Google Search
+
+00:19:51.857 --> 00:19:55.127
+Because reality is that despite what Google is saying right now
+
+00:19:55.127 --> 00:20:02.234
+I still want to see the site that is not losing traffic from AI overviews, I think every site is.
+
+00:20:02.234 --> 00:20:06.038
+And sure, you can offset that by just pumping out massive volumes of content.
+
+00:20:06.038 --> 00:20:11.677
+So, you don't necessarily lose traffic year over year in absolute terms
+
+00:20:11.677 --> 00:20:13.579
+but in relative terms, you absolutely are,
+
+00:20:13.579 --> 00:20:16.048
+like what you would have gotten versus what you get today.
+
+00:20:16.048 --> 00:20:17.216
+You can make that simple analysis.
+
+00:20:17.216 --> 00:20:20.085
+So anyway, coming back to it, before making a decision,
+
+00:20:20.085 --> 00:20:21.787
+Cost benefit analysis.
+
+00:20:21.787 --> 00:20:22.521
+What are we giving?
+
+00:20:22.521 --> 00:20:23.488
+What are we getting?
+
+00:20:23.488 --> 00:20:26.758
+What would it look like in the next three to maybe five years?
+
+00:20:26.758 --> 00:20:30.362
+And then I think you know, I Think it's more than viable and actually it makes sense
+
+00:20:30.362 --> 00:20:33.865
+for a lot of companies to block Google and AI chatbots.
+
+00:20:33.865 --> 00:20:42.341
+Just yesterday I saw a tweet from WalletHub saying that they're doing that now and yeah, and and so...
+
+00:20:42.341 --> 00:20:48.614
+I predicted that last year that we're going to see lot more companies that are going to
+exclude Google and ChatGPT and Co.
+
+00:20:48.614 --> 00:20:51.483
+Because for them, it just doesn't make sense anymore.
+
+00:20:51.483 --> 00:20:54.453
+And at the front of that trend, we're seeing publishers.
+
+00:20:54.453 --> 00:21:01.760
+Makes perfect sense because they're critically dependent on getting clicks for ad traffic, for affiliate traffic.
+
+00:21:01.760 --> 00:21:09.434
+Even if you have a subscription model, in most cases, it's not enough to sustain the company, at least in its current form.
+
+00:21:09.434 --> 00:21:11.770
+So publishers are at the forefront.
+
+00:21:11.770 --> 00:21:17.242
+Affiliates have already been hit really hard and decimated in 2023 by the helpful content updates.
+
+00:21:17.242 --> 00:21:21.513
+So if that wouldn't have been the case, then they would probably be staying right next to publishers.
+
+00:21:21.513 --> 00:21:30.355
+And so I think any content heavy model, there are also companies like Chegg or Stack Overflow that are also being absolutely obliterated by AI overviews  
+
+00:21:30.355 --> 00:21:32.190
+and for these companies, I think it makes sense to say
+
+00:21:32.190 --> 00:21:35.694
+Okay, let's look at other traffic channels, other ways to grow the business
+
+00:21:35.694 --> 00:21:38.864
+and maybe adopt Cloudflare's paper crawl model.
+
+00:21:38.864 --> 00:21:44.169
+So Cloudflare made this really interesting, push into since they govern so much of the web
+
+00:21:44.169 --> 00:21:47.606
+and there's such an intermediary between users and search, etc.
+
+00:21:47.606 --> 00:21:54.112
+And they released this project called paper crawl where essentially you block bots, and you can be specific about which ones
+
+00:21:54.112 --> 00:22:00.085
+from calling and using your content for training data, or for RAG answers, for reasoning.
+
+00:22:00.085 --> 00:22:05.157
+Instead, they either need to ask for permission or they need to pay.
+
+00:22:05.157 --> 00:22:08.860
+Now, this is to be clear, right? Like you're not getting paid yet.
+
+00:22:08.860 --> 00:22:15.000
+This is still an attempt to build a big enough pole for then the search engines
+
+00:22:15.000 --> 00:22:19.671
+and AI developers to come to the table and say, OK, this is going to be a model.
+
+00:22:19.671 --> 00:22:21.173
+It makes perfect sense to me, right?
+
+00:22:21.173 --> 00:22:25.243
+The economics of the web are deeply in the red for traffic.
+
+00:22:25.243 --> 00:22:29.681
+And so I'm not surprised to see more more companies not take on that deal anymore.
+
+00:22:29.681 --> 00:22:33.685
+Yeah, I think that's the fundamental challenge of all of this, right?
+
+00:22:33.685 --> 00:22:41.159
+Is that there isn't a big enough pool of users or companies sort of demanding for X thing.
+
+00:22:41.159 --> 00:22:45.897
+Even when you do have a cohort of people, they may not be all asking for the same things.
+
+00:22:45.897 --> 00:22:49.301
+And so you still have this sort of divergence across, I don't know
+
+00:22:49.301 --> 00:22:56.208
+the effort to sort of rein this in, and be more cognizant about where they're getting traffic from.
+
+00:22:56.208 --> 00:22:58.243
+So I think you're exactly right.
+
+00:22:58.243 --> 00:23:00.712
+I thought another thing that was pretty interesting from the study
+
+00:23:00.712 --> 00:23:04.916
+was the simplicity of how the content should be created.
+
+00:23:04.916 --> 00:23:07.185
+You talk a lot about measuring like flash scores
+
+00:23:07.185 --> 00:23:11.056
+and just thinking about like simple sentence structures and things like that.
+
+00:23:11.056 --> 00:23:17.996
+I was curious If you wanted to analyze like how simple your content is at scale.
+
+00:23:17.996 --> 00:23:22.834
+Is that something that, like, a screaming frog, could help us evaluate from a content perspective?
+
+00:23:22.834 --> 00:23:27.706
+Or what sort of tools would you recommend your clients use to sort of evaluate that,
+
+00:23:27.706 --> 00:23:30.509
+maybe just to establish a baseline of where you are today?
+
+00:23:30.509 --> 00:23:35.046
+Screaming frog is a great option because it allows you to crawl all of your content
+
+00:23:35.046 --> 00:23:39.151
+and then determine like the average flash score or complexity
+
+00:23:39.151 --> 00:23:45.223
+But there lots of tools from the SEMrush and Ahrefs of the world to keyword insights, Surfer, ClearScope...
+
+00:23:45.223 --> 00:23:49.828
+They all give you a sense of how complicated your content is to understand compared to
+
+00:23:49.828 --> 00:23:53.899
+what the other very visible articles are showing.
+
+00:23:53.899 --> 00:23:55.500
+I think that is one good start.
+
+00:23:55.500 --> 00:23:58.036
+I think then also understanding your topic gaps.
+
+00:23:58.036 --> 00:24:04.309
+And again, there many ways to get there from building your own topic maps to using some of the tools that I mentioned.
+
+00:24:04.309 --> 00:24:05.744
+All of these could help with that.
+
+00:24:05.744 --> 00:24:07.179
+But then there are these kind of...
+
+00:24:07.179 --> 00:24:11.950
+I think it's like it's an evolution of what we've been doing in SEO for a while
+
+00:24:11.950 --> 00:24:15.554
+because the reality is that none of these recommendations are really net new.
+
+00:24:15.554 --> 00:24:17.122
+They're just sticking out more.
+
+00:24:17.122 --> 00:24:20.559
+They're just amplified by AI and AI visibility.
+
+00:24:20.559 --> 00:24:24.563
+And so there's a lot to be said about the structure of the content, meaning the way you use headings.
+
+00:24:24.563 --> 00:24:28.366
+First of all, you should be using headings if you want to go the extra mile.
+
+00:24:28.366 --> 00:24:29.901
+You obviously want to have a clear hierarchy
+
+00:24:29.901 --> 00:24:33.605
+you want to have these headings be descriptive and related to the content.
+
+00:24:33.605 --> 00:24:37.209
+And I still, all the time, when I just look at headings
+
+00:24:37.209 --> 00:24:46.151
+see that most sites, they use them as a way to style the page or as a design tool rather than a semantic tool...
+
+00:24:46.151 --> 00:24:46.918
+Exactly,
+
+00:24:46.918 --> 00:24:47.152
+right?
+
+00:24:47.152 --> 00:24:49.988
+There's a lot to be said about active voice.
+
+00:24:49.988 --> 00:24:55.393
+There's a lot to be said about enhancements like table of contents, FAQ, key takeaways.
+
+00:24:55.393 --> 00:25:01.166
+I've seen that in my own usability study that we can talk a bit more about kind of the background context of that,
+
+00:25:01.166 --> 00:25:06.571
+but the people deliberately seek out these content elements
+
+00:25:06.571 --> 00:25:09.774
+as a way to skim and parse and anchor
+
+00:25:09.774 --> 00:25:11.776
+and essentially trying to find the answers, right?
+
+00:25:11.776 --> 00:25:13.278
+People don't have a lot of patience anymore.
+
+00:25:13.278 --> 00:25:17.315
+Maybe they never had, I don't know, but when they skim content, when they evaluate it
+
+00:25:17.315 --> 00:25:22.420
+they will look for these content elements so that they can say... Ah! okay, here's my answer
+
+00:25:22.420 --> 00:25:26.258
+now that means that content is interesting
+
+00:25:26.258 --> 00:25:28.126
+now let me read it top to bottom, right?
+
+00:25:28.126 --> 00:25:30.795
+So it's this kind of like pyramid approach
+
+00:25:30.795 --> 00:25:32.831
+where you want to give the answer right away.
+
+00:25:32.831 --> 00:25:34.432
+So people just know, okay, my answer is here.
+
+00:25:34.432 --> 00:25:36.301
+it's worth for me spending time here.
+
+00:25:36.301 --> 00:25:40.405
+And then they might take time to read the rest of it. And all these content enhancements
+
+00:25:40.405 --> 00:25:43.375
+and structure and stuff also help significantly with that.
+
+00:25:43.375 --> 00:25:47.712
+And it helps bots who operate on a much simpler level to understand
+
+00:25:47.712 --> 00:25:49.714
+how this content relates to a larger topic.
+
+00:25:49.714 --> 00:25:56.354
+AI chatbots seem to be no different when it comes to that than search engines.
+
+00:25:56.354 --> 00:26:00.392
+You've written a lot about these guiding principles for web design.
+
+00:26:00.392 --> 00:26:01.960
+You just mentioned a few of them.
+
+00:26:01.960 --> 00:26:03.261
+The ease of navigation.
+
+00:26:03.261 --> 00:26:07.465
+There's a lot of great examples like FAQs and summaries and highlights and stuff
+
+00:26:07.465 --> 00:26:12.203
+ that you've gone into really great depth on.
+
+00:26:12.203 --> 00:26:13.538
+And I appreciate it.
+
+00:26:13.538 --> 00:26:18.510
+Trust symbols is another piece that I think like you consider that a part of your website design.
+
+00:26:18.510 --> 00:26:21.646
+That's a guiding principle now product pages, anything.
+
+00:26:21.646 --> 00:26:27.319
+The one thing I heard you say that I hadn't really heard is the importance of page speed
+
+00:26:27.319 --> 00:26:29.654
+being less important than we all thought.
+
+00:26:29.654 --> 00:26:32.991
+I think John and I produce a lot of, you know
+
+00:26:32.991 --> 00:26:39.531
+technical recommendations and a big part of our tech audits is typically how to improve page speed.
+
+00:26:39.531 --> 00:26:43.134
+It seems like it has just naturally become less of a priority.
+
+00:26:43.134 --> 00:26:48.974
+We always find more important things to address first, but we never lose sight of page speed.
+
+00:26:48.974 --> 00:26:54.179
+It seems like a new idea for me a little bit, it being less important.
+
+00:26:54.179 --> 00:26:56.281
+Yeah, you're right, Joe. Absolutely. It's a good observation.
+
+00:26:56.281 --> 00:27:01.987
+The way that I think about all of these recommendations and criteria is that it's very
+contextual.
+
+00:27:01.987 --> 00:27:06.691
+ So most of what we talked about applies to blog content, right?
+
+00:27:06.691 --> 00:27:11.363
+But when we talk about maybe product or category pages, the focus can shift a little bit.
+
+00:27:11.363 --> 00:27:15.567
+And so in my experience with page speed and core web vitals
+
+00:27:15.567 --> 00:27:17.202
+I just group all of that together
+
+00:27:17.202 --> 00:27:22.307
+is that it's often, it gets a lot of attention because it's easy to measure, right?
+
+00:27:22.307 --> 00:27:25.877
+We get Search Console data, we can run tests and stuff.
+
+00:27:25.877 --> 00:27:30.315
+And so a lot of focus goes into that because we can see when the needle goes up or down.
+
+00:27:30.315 --> 00:27:32.350
+And I've had clients in,
+
+00:27:32.350 --> 00:27:38.423
+for example, the insurance space that have spent weeks on improving core web vitals with nothing to show for.
+
+00:27:38.423 --> 00:27:43.261
+And then I've had clients in e-commerce that have spent weeks improving core web vitals with a lot to show for.
+
+00:27:43.261 --> 00:27:49.801
+And so for me, the takeaway here is page speed, core web vitals, etc, matters the most when we're talking about
+
+00:27:49.801 --> 00:27:57.575
+transactional pages, product, category,  e-commerce stores, marketplaces, even right consumer marketplaces.
+
+00:27:57.575 --> 00:28:01.846
+That's when people have a transactional intent, page speed matters the most.
+
+00:28:01.846 --> 00:28:06.951
+And it scales specifically for e-commerce.
+
+00:28:06.951 --> 00:28:11.389
+It scales less when it comes to something like uh SaaS, right?
+
+00:28:11.389 --> 00:28:18.763
+So because you could argue, Oh, a SaaS landing page also has transaction intent, and that is true, but their page speed matters much less.
+
+00:28:18.763 --> 00:28:26.037
+When you are shopping, on the other hand, in e-commerce, and there's a lot of competition and low patience, right?
+
+00:28:26.037 --> 00:28:31.376
+If the page takes too long to load, you might just go to another store and buy a competitor product.
+
+00:28:31.376 --> 00:28:33.812
+And so that's where it's really critical.
+
+00:28:33.812 --> 00:28:36.881
+And I also see search engines reward that.
+
+00:28:36.881 --> 00:28:45.023
+And I'm not sure if search engines reward that because they measure page speed and the core vitals specifically
+
+00:28:45.023 --> 00:28:49.994
+or because they see that users prefer that page in the store because it loads faster.
+
+00:28:49.994 --> 00:28:54.065
+Now, there's one caveat to me, and that is time to first byte.
+
+00:28:54.065 --> 00:29:00.805
+Time to first byte or server response time, I think, is universally important for any site out there
+
+00:29:00.805 --> 00:29:06.711
+because it's so important that not just search engines, especially AI chatbots
+
+00:29:06.711 --> 00:29:08.546
+can crawl your site quickly.
+
+00:29:08.546 --> 00:29:13.017
+And not the page speed number that impacts scroll rate or speed,
+
+00:29:13.017 --> 00:29:15.253
+ the most is time to first byte.
+
+00:29:15.253 --> 00:29:21.860
+How long does it actually take the crawler to get the, I would say, raw HTML from your server.
+
+00:29:21.860 --> 00:29:25.730
+And so that is something that I'm keeping tabs on for all of my clients.
+
+00:29:25.730 --> 00:29:31.569
+Interesting. Yeah, we've you know, in core web vitals first came out, it was like, oh my God, we have to audit everything.
+
+00:29:31.569 --> 00:29:37.208
+I think now we're starting to understand that it isn't so binary, right?
+
+00:29:37.208 --> 00:29:41.146
+Like it does matter based on who the competition is.
+
+00:29:41.146 --> 00:29:45.116
+So, one way that we've approached is looking at it on a template level
+
+00:29:45.116 --> 00:29:48.586
+comparing a handful of searches against who we're competing with on page one.
+
+00:29:48.586 --> 00:29:51.856
+And if we see like really big discrepancies
+
+00:29:51.856 --> 00:29:56.995
+then we'll focus on the page template itself, not universally looking at the site.
+
+00:29:56.995 --> 00:29:59.597
+So that's helped us be a little bit smarter about
+
+00:29:59.597 --> 00:30:03.568
+advising clients on spending a ton of time here where you may not see,
+
+00:30:03.568 --> 00:30:06.237
+you know, the, output of it, like you mentioned.
+
+00:30:06.237 --> 00:30:07.605
+Smart.
+
+00:30:07.639 --> 00:30:08.706
+You mentioned the UX study.
+
+00:30:08.706 --> 00:30:10.275
+Maybe we can transition to that.
+
+00:30:10.275 --> 00:30:13.344
+I think that, being one of the first studies
+
+00:30:13.344 --> 00:30:17.982
+I thought I'd got a lot of great attention and there was a lot of great analysis and effort behind it.
+
+00:30:17.982 --> 00:30:22.954
+I think that, probably the most interesting thing to me was that there are still about
+
+00:30:22.954 --> 00:30:27.859
+I think, I think it was 80 % of users are still clicking after seeing the AIO.
+
+00:30:27.859 --> 00:30:33.464
+I don't know, was there anything else that was super insightful that you didn't expect to see from that study?
+
+00:30:33.464 --> 00:30:35.533
+Maybe just take us through some of those things.
+
+00:30:35.533 --> 00:30:36.467
+Man, so much.
+
+00:30:36.467 --> 00:30:42.373
+I would say it has significantly changed my view of SEO and maybe organic growth in general.
+
+00:30:42.640 --> 00:30:46.477
+For context, in March of this year
+
+00:30:46.477 --> 00:30:52.650
+together with a partner, named Eric Manbusker, he has experience with these types of usability studies
+
+00:30:52.650 --> 00:30:55.253
+He has done them for Backlinko and others.
+
+00:30:55.253 --> 00:30:58.556
+We conducted the first usability study of AI overviews.
+
+00:30:58.556 --> 00:31:02.894
+I was very unsatisfied with... look, I got a lot of access to aggregate data,
+
+00:31:02.894 --> 00:31:07.232
+so maybe it's a bit unfair for me to say, but I had this, like, big picture view. 
+
+00:31:07.232 --> 00:31:14.072
+The SimilarWeb analysis of like seven billion queries, like, you know, to understand what's going on in search results.
+
+00:31:14.072 --> 00:31:17.542
+Are people still clicking or not and zero clicks, all that kind of stuff.
+
+00:31:17.542 --> 00:31:20.011
+Incredibly helpful, but there was still a gap for me.
+
+00:31:20.011 --> 00:31:26.651
+And so, luckily I met Eric on a webinar and we caught up and Eric was like, hey, we should do something together.
+
+00:31:26.784 --> 00:31:30.421
+We riffed and then we came to this idea of this usability study.
+
+00:31:30.421 --> 00:31:37.228
+And what we did is we monitored and tracked the user behavior of 70 participants
+
+00:31:37.228 --> 00:31:44.168
+out of the US across different age ranges, across different devices in solving eight tasks.
+
+00:31:44.469 --> 00:31:54.045
+We gave them eight tasks like find a tax accountant in your area, find this e-commerce product, find this health information.
+
+00:31:54.045 --> 00:31:55.747
+And a lot of these
+
+00:31:55.747 --> 00:32:01.052
+but not all of those tasks were geared specifically for people to find AI overviews
+
+00:32:01.052 --> 00:32:05.156
+because we wanted to see how they engage with them without bias in them.
+
+00:32:05.156 --> 00:32:08.526
+So we didn't want to say, hey, if there's an AI overview, just engage with that.
+
+00:32:08.526 --> 00:32:12.430
+We wanted to just give them the task and then see how they naturally engage with it.
+
+00:32:12.430 --> 00:32:14.799
+And we got a ton of material out of it.
+
+00:32:14.799 --> 00:32:17.101
+I think it's an incredibly robust study.
+
+00:32:17.101 --> 00:32:19.370
+We had six people working on this.
+
+00:32:19.370 --> 00:32:20.772
+It cost a lot of money.
+
+00:32:20.772 --> 00:32:21.839
+It took a lot of time.
+
+00:32:21.839 --> 00:32:24.409
+But the insights, I think, are very profound.
+
+00:32:24.409 --> 00:32:26.377
+And so the first one, you already mentioned it
+
+00:32:26.377 --> 00:32:30.148
+is that even though people click a lot
+less
+
+00:32:30.148 --> 00:32:34.152
+and this is also validated by a lot of different research.
+
+00:32:34.152 --> 00:32:38.823
+For example, the study by Pew Research recently, which was also incredibly robust
+
+00:32:38.823 --> 00:32:45.897
+showing that 1 % of users click on a source or citation in AI overviews.
+
+00:32:45.897 --> 00:32:48.299
+That is just such a tiny number.
+
+00:32:48.299 --> 00:32:49.667
+Yeah. It's nothing.
+
+00:32:49.667 --> 00:32:50.735
+It’s just nothing.
+
+00:32:50.735 --> 00:32:54.238
+And it can explain also why these 1 % click at all.
+
+00:32:54.238 --> 00:32:59.377
+But yeah, it just goes to show that Google Search is going away from clicks, right?
+
+00:32:59.377 --> 00:33:02.513
+I hope that's pretty clear for everyone listening, right?
+
+00:33:02.513 --> 00:33:05.383
+Especially when you look at or think about AI mode.
+
+00:33:05.383 --> 00:33:07.919
+But search is not about clicks anymore, right?
+
+00:33:07.919 --> 00:33:09.454
+It's much more about answers and influence.
+
+00:33:09.454 --> 00:33:15.093
+But anyway, we saw that the clicks that are still going out, or let me put it this way.
+
+00:33:15.093 --> 00:33:17.996
+Clicks are a very noisy signal.
+
+00:33:18.129 --> 00:33:19.330
+A lot of clicks happen.
+
+00:33:19.330 --> 00:33:20.798
+And we saw this in this study.
+
+00:33:20.798 --> 00:33:25.737
+I put in the write-up of the study, I uploaded some clips of showing exactly that
+
+00:33:25.737 --> 00:33:28.639
+like how actual users behave and how they annotate and how they think.
+
+00:33:28.639 --> 00:33:34.545
+And so a lot of clicks are noisy because people click around to skim and scavenge.
+
+00:33:34.545 --> 00:33:37.482
+And a lot of clicks are not targeted and intentional.
+
+00:33:37.482 --> 00:33:38.750
+They're very impulsive.
+
+00:33:38.750 --> 00:33:42.453
+And people are searching and going back and forth and this and that.
+
+00:33:42.453 --> 00:33:47.725
+What we found is that a lot of the noise, these impulse clicks
+
+00:33:47.725 --> 00:33:54.165
+are going away when AI overviews are present because people get answers to the questions right away.
+
+00:33:54.165 --> 00:33:59.404
+And as a result, the clicks that they still do are much more intentional.
+
+00:33:59.404 --> 00:34:00.671
+And they click for a couple of reasons.
+
+00:34:00.671 --> 00:34:02.640
+One is to validate information from AI.
+
+00:34:02.640 --> 00:34:04.742
+I'll come back to that in a second.
+
+00:34:04.742 --> 00:34:07.478
+And two, they click to take action.
+
+00:34:07.478 --> 00:34:14.085
+And so the revelation for me from the study is that there's this thing called a final click or what we called a final click
+
+00:34:14.085 --> 00:34:15.987
+which is basically the last click that people
+
+00:34:15.987 --> 00:34:18.222
+perform when they complete the user journey.
+
+00:34:18.222 --> 00:34:25.029
+And what we found that you addressed is that 80 % of these clicks are going to organic results, not to AI overviews.
+
+00:34:25.029 --> 00:34:30.068
+And it's aligned with this study from Pew Research because...
+
+00:34:30.068 --> 00:34:38.543
+People don't really click on citations, but they still click on organic results, much, much less than before AI overviews.
+
+00:34:38.543 --> 00:34:43.047
+But they do so to take action, like transact, find the information they're looking for,
+
+00:34:43.047 --> 00:34:45.616
+find the tax account, and etc, all this stuff that I mentioned before.
+
+00:34:45.616 --> 00:34:49.387
+So there's still a lot of value in organic results, but we cannot measure that value
+
+00:34:49.387 --> 00:34:53.491
+with clicks anymore, at least not to the same degree that we did before.
+
+00:34:53.491 --> 00:34:57.728
+Two, and I already mentioned this, people are validating AI results
+
+00:34:57.728 --> 00:35:04.669
+by going to platforms and communities like Reddit, YouTube, niche forums, LinkedIn, etc.
+
+00:35:04.669 --> 00:35:10.274
+So there is this new interesting user behavior that consists of trust and relevance.
+
+00:35:10.274 --> 00:35:15.113
+So it seems like before AI overviews, people predominantly judged the search results by relevance.
+
+00:35:15.113 --> 00:35:16.681
+Does it answer my question?
+
+00:35:16.681 --> 00:35:20.051
+Now, people first look at the...
+
+00:35:20.051 --> 00:35:24.088
+domain, the citation, the brand, and they ask themselves, do I know this?
+
+00:35:24.088 --> 00:35:26.390
+Do I know this and trust this?
+
+00:35:26.390 --> 00:35:29.794
+And when they do, then they apply the relevance check.
+
+00:35:29.794 --> 00:35:31.996
+So then they ask themselves, uh can this answer my question?
+
+00:35:31.996 --> 00:35:37.001
+And as a result, it means that, first of all, we need to be focusing much more on these other platforms
+
+00:35:37.001 --> 00:35:41.939
+because that's where people gain and build trust into brands and results.
+
+00:35:41.939 --> 00:35:49.247
+But second, also means that ideally we have a preconceived notion in the minds of our users before they search.
+
+00:35:49.247 --> 00:35:50.314
+What does it mean?
+
+00:35:50.314 --> 00:35:56.120
+They should ideally have heard of us or know us and even better in a positive sentiment.
+
+00:35:56.120 --> 00:36:03.327
+And so some of that can come from people having visited our site previously, but you get into this chicken egg problem, right?
+
+00:36:03.327 --> 00:36:08.933
+Where it's like, you need trust for people to click on your site and you want to build trust when people are on your site.
+
+00:36:08.933 --> 00:36:09.934
+So where do you start?
+
+00:36:09.934 --> 00:36:10.434
+Right.
+
+00:36:10.434 --> 00:36:16.007
+I think a lot of that goes into advertising and maybe collaborations and other ways to get in front of users.
+
+00:36:16.007 --> 00:36:22.680
+But that is becoming so much more important because if people don't trust and have heard of you, then you're mostly invisible, right?
+
+00:36:22.680 --> 00:36:29.520
+Unless we're talking about like utility utility, like they're just trying to find the cheapest product then these filters fall away much more.
+
+00:36:29.520 --> 00:36:31.822
+But a lot of other cases, they very much apply.
+
+00:36:31.822 --> 00:36:35.026
+And the last thing I'll say is there's also a big age difference.
+
+00:36:35.026 --> 00:36:41.532
+I found that older users are much less receptive to AI answers.
+
+00:36:41.532 --> 00:36:43.701
+They're much more likely to skip them all together.
+
+00:36:43.701 --> 00:36:50.942
+Whereas younger users are very receptive and they don't look at the organic search results nearly as much as older cohorts.
+
+00:36:50.942 --> 00:36:53.511
+So there is that age part as well.
+
+00:36:53.544 --> 00:36:59.650
+Can I, I wanna try to paraphrase, maybe summarize one of the big points that I heard.
+
+00:36:59.650 --> 00:37:03.955
+I've heard you say this in different ways with different people
+
+00:37:03.955 --> 00:37:06.224
+and you've written about it a little bit differently too.
+
+00:37:06.224 --> 00:37:12.263
+Just for that older cohort that doesn't trust the AI overview as much as the younger cohort,
+
+00:37:12.263 --> 00:37:18.669
+it seemed like your usability study showed that older cohort would scroll down to
+
+00:37:18.669 --> 00:37:24.442
+organic results to verify, maybe not clicking in to the organic results,
+
+00:37:24.442 --> 00:37:31.115
+but at least using that first set of organic rankings to build some trust
+
+00:37:31.115 --> 00:37:33.384
+ in what they saw in the AI overview.
+
+00:37:33.384 --> 00:37:36.220
+And for me, that is a...
+
+00:37:36.220 --> 00:37:39.457
+That's an indication that rankings still matter.
+
+00:37:39.457 --> 00:37:46.197
+We've been talking a little bit about rankings mattering less and measuring search SEO success
+
+00:37:46.197 --> 00:37:50.134
+with clicks matters less, but it still feels like you want to rank well
+
+00:37:50.134 --> 00:37:52.970
+organically to build trust.
+
+00:37:52.970 --> 00:37:54.438
+Yes, that is absolutely right.
+
+00:37:54.438 --> 00:37:56.674
+You want to rank organically to build trust.
+
+00:37:56.674 --> 00:38:01.612
+And you also want to rank organically so that Google pulls you into the AI overviews.
+
+00:38:01.612 --> 00:38:03.180
+And yes, people click a lot less.
+
+00:38:03.180 --> 00:38:06.884
+And at the same time, Google still plays around with the format a lot.
+
+00:38:06.884 --> 00:38:12.089
+They start to show a lot more links, fragments or parts of the answer.
+
+00:38:12.089 --> 00:38:14.325
+They highlight brands in the answer.
+
+00:38:14.325 --> 00:38:16.160
+So, you are correct.
+
+00:38:16.160 --> 00:38:18.095
+Organic ranks still matter.
+
+00:38:18.095 --> 00:38:23.067
+What is changing and becoming more important also is this whole kind of idea
+
+00:38:23.067 --> 00:38:24.802
+of covering many user intents
+
+00:38:24.802 --> 00:38:28.439
+which directly relates or alludes to query fan out.
+
+00:38:28.439 --> 00:38:33.077
+So another big topic right now is query fan out, not just in the AI mode
+
+00:38:33.077 --> 00:38:36.547
+but also in ChatGTP and Perplexity all use query fan out technology.
+
+00:38:36.547 --> 00:38:44.855
+And in a nutshell, it's about these AI is trying to cover and include different user intents.
+
+00:38:44.855 --> 00:38:50.761
+Rankings are important and also clustering them by topic and by user intent
+
+00:38:50.761 --> 00:38:53.998
+filling these gaps even more important as well.
+
+00:38:53.998 --> 00:38:57.601
+I want to dig into that in a second, but you mentioned
+
+00:38:57.601 --> 00:39:01.205
+this study really having an impact on sort of how you think about SEO.
+
+00:39:01.205 --> 00:39:07.011
+Was that purely from a traffic driving perspective, or were there actual tactics
+
+00:39:07.011 --> 00:39:10.948
+or I don't know, methodologies that you
+
+00:39:10.948 --> 00:39:14.418
+maybe decided weren't as important as what you saw in the past?
+
+00:39:14.418 --> 00:39:15.619
+It’s a good question.
+
+00:39:15.619 --> 00:39:21.425
+I definitely got a new found love again for these, like content features
+
+00:39:21.425 --> 00:39:25.663
+because we saw so many people who you know they were looking for information they quickly go to
+
+00:39:25.663 --> 00:39:29.300
+ a site like US News and they have this box with key takeaways
+
+00:39:29.300 --> 00:39:33.504
+and like oh yeah that's what I'm looking for right, so that kind of motion came up a lot
+
+00:39:33.504 --> 00:39:35.940
+trust and authority came up a lot and so
+
+00:39:35.940 --> 00:39:39.377
+for me it for example put into perspective the Google Quality Rater guidelines
+
+00:39:39.377 --> 00:39:43.347
+which also say that trust is the most important factor when it comes to EAT.
+
+00:39:43.347 --> 00:39:47.818
+just basically, like this study helped me understand what EAT is in general.
+
+00:39:47.818 --> 00:39:51.555
+It's just, it's really a framework for how users evaluate search results.
+
+00:39:51.555 --> 00:39:57.495
+And that's why Google wants to double kind of verify that with humans,
+
+00:39:57.495 --> 00:40:01.232
+or basically verify their search results with humans.
+
+00:40:01.232 --> 00:40:05.002
+But it was like, what's less important, it's hard to say, you know, I mean,
+
+00:40:05.002 --> 00:40:09.373
+backlinks that's always kind of a big question like how important are they still
+
+00:40:09.373 --> 00:40:13.978
+and I haven't come to a definitive answer especially now in this new AI search world.
+
+00:40:13.978 --> 00:40:17.748
+Speed was not really a factor in those studies
+
+00:40:17.748 --> 00:40:22.453
+So it's hard for me to pinpoint something that has become less important.
+
+00:40:22.453 --> 00:40:27.491
+I think it just re-ranked my set of things to pay attention to.
+
+00:40:27.491 --> 00:40:28.926
+Yeah, you mentioned link building.
+
+00:40:28.926 --> 00:40:31.562
+How do you talk to clients about link building in today's world?
+
+00:40:31.562 --> 00:40:34.432
+Like, certainly you work with some brands that...
+
+00:40:34.432 --> 00:40:37.835
+I remember when Joe and I were at Razorfish, was always fun to work with those brands
+
+00:40:37.835 --> 00:40:40.104
+because you didn't always need to worry about link building.
+
+00:40:40.104 --> 00:40:44.675
+They were just so strong and you could do something very simple and see a great impact.
+
+00:40:44.675 --> 00:40:49.046
+But you also work with a lot of companies who are just sort of starting, right?
+
+00:40:49.046 --> 00:40:53.117
+So they don't necessarily have that domain authority and link building must come up
+
+00:40:53.117 --> 00:40:55.853
+I would imagine, in your conversations when you're advising.
+
+00:40:55.853 --> 00:40:58.622
+So how do you talk to them about
+
+00:40:58.622 --> 00:41:01.792
+link building is link buying ever an option?
+
+00:41:01.792 --> 00:41:03.360
+Is it a PR push?
+
+00:41:03.360 --> 00:41:04.762
+Yeah, just curious about that.
+
+00:41:04.762 --> 00:41:09.667
+It's still a big conversation point, because you're absolutely right.
+
+00:41:09.667 --> 00:41:11.502
+There are some companies that still need links.
+
+00:41:11.502 --> 00:41:16.407
+For example, on the local search level, that is still very much a thing.
+
+00:41:16.407 --> 00:41:20.711
+And there's a whole machinery behind it that still works like maybe 10 years ago
+
+00:41:20.711 --> 00:41:26.851
+or 20 years ago, where you buy links from the publishers or affiliate sites,
+
+00:41:26.851 --> 00:41:28.586
+and they do have an impact.
+
+00:41:28.586 --> 00:41:32.456
+But then, as you also said, there are these other large brands where link building
+
+00:41:32.456 --> 00:41:37.461
+is basically PR, and it's much more about being mentioned and the sentiment and the
+
+00:41:37.461 --> 00:41:40.598
+perception you create rather than hard backlinks.
+
+00:41:40.598 --> 00:41:44.602
+For me, I'm still investigating this much, much deeper, but it does seem like
+
+00:41:44.602 --> 00:41:47.071
+I mean, from the early data that I pulled, backlinks are much less important.
+
+00:41:47.071 --> 00:41:48.739
+The volume of backlinks doesn't matter.
+
+00:41:48.739 --> 00:41:52.710
+The quality is still something that I'm circling around for AI search.
+
+00:41:52.710 --> 00:41:54.311
+And then it's all very contextual, right?
+
+00:41:54.311 --> 00:41:56.280
+I think you can see this in a lot of websites
+
+00:41:56.280 --> 00:41:59.717
+that were historically very strong when it comes to links
+
+00:41:59.717 --> 00:42:04.722
+I have the feeling that Google just devalued backlinks as a signal significantly.
+
+00:42:04.722 --> 00:42:09.627
+And the value of the content, the engagement, all that kind of stuff has taken a lot of that place.
+
+00:42:09.627 --> 00:42:15.132
+So the backlink conversations with my clients are a lot more around, again, the unique data 
+
+00:42:15.132 --> 00:42:19.503
+PR, like how do we create narratives, support them with data, and then amplify them
+
+00:42:19.503 --> 00:42:22.940
+in a way that gets us in front of the audience and creates like a really good...
+
+00:42:22.940 --> 00:42:25.142
+ the perception that we want.
+
+00:42:25.142 --> 00:42:27.645
+Yeah, there's still some questions.
+
+00:42:27.645 --> 00:42:32.783
+And at the same time, though, I think a lot of the focus switches from backlinks to mentions.
+
+00:42:32.783 --> 00:42:36.887
+And that is a slightly different game, but also a completely different game, right?
+
+00:42:36.887 --> 00:42:40.157
+You still have, like a lot of companies still do outreach for mentions.
+
+00:42:40.157 --> 00:42:44.461
+Not sure how successful that is, but big brands, they think much more about stuff like
+
+00:42:44.461 --> 00:42:49.667
+hey, should we give a site like NerdWallet or Forbes or others, should we give them a couple
+
+00:42:49.667 --> 00:42:56.907
+of 10,000s of dollars so that we get an advertorial or that we get featured by them and
+then we get a backlink and a mention or not?
+
+00:42:56.907 --> 00:43:00.177
+Those are much more the dimensions where, again, local players are like
+
+00:43:00.177 --> 00:43:04.782
+should I spend 500 bucks on getting 50 links across these like...
+
+00:43:04.949 --> 00:43:08.852
+local publishers, it's just very different dimensions.
+
+00:43:08.852 --> 00:43:11.121
+And again, the impact is also very different.
+
+00:43:11.121 --> 00:43:15.125
+Well, the trade-off is using the NerdWallet example, right?
+
+00:43:15.125 --> 00:43:17.995
+If I could pay an amount and be visible
+
+00:43:17.995 --> 00:43:21.532
+like they've done all the work to rank for some
+of these really competitive terms
+
+00:43:21.532 --> 00:43:26.270
+if I can just pay and be there tomorrow, versus having
+
+00:43:26.270 --> 00:43:29.239
+to build out a plan, creating the content, right?
+
+00:43:29.239 --> 00:43:33.444
+Like this massive effort behind the scenes, especially for a smaller brand.
+
+00:43:33.444 --> 00:43:37.681
+You know, if you do that calculation, oftentimes it makes more sense to just be there.
+
+00:43:37.681 --> 00:43:42.620
+We worked with a bank who had a really strong, checking bonus offer
+
+00:43:42.620 --> 00:43:47.157
+and for what it would have taken them to rank for, you know
+
+00:43:47.157 --> 00:43:50.527
+the nerd wallet content would have been monumental.
+
+00:43:50.527 --> 00:43:54.298
+But they got into the affiliate program and they saw tons and tons of success
+
+00:43:54.298 --> 00:43:56.800
+from that for, you know, basically a fixed fee.
+
+00:43:56.800 --> 00:43:58.535
+So for them, it made a lot of sense.
+
+00:43:58.535 --> 00:44:03.574
+I want to talk, we've talked a lot about shifting traffic and, you know, measurement.
+
+00:44:03.574 --> 00:44:09.213
+You had this great post on LinkedIn around like the new KPIs for AI driven search.
+
+00:44:09.213 --> 00:44:15.586
+Things like measuring how influential an impression would be, share a voice, those
+sorts of things.
+
+00:44:15.586 --> 00:44:18.455
+Brand recall and trust, which we've talked a lot about.
+
+00:44:18.455 --> 00:44:22.860
+How do you, again, in your sort of advisor role.
+
+00:44:22.860 --> 00:44:26.864
+how do you help your sort of client
+
+00:44:26.864 --> 00:44:34.071
+take these changing KPIs and sort of train the board or train the CEO on like how to
+
+00:44:34.071 --> 00:44:37.608
+think differently about what SEO's value is
+
+00:44:37.608 --> 00:44:39.476
+or what organic traffic's value is?
+
+00:44:39.476 --> 00:44:43.747
+I think this is the conversation Joe and I are starting to tease a little bit.
+
+00:44:43.847 --> 00:44:46.417
+And some of the reception is like, it makes total sense.
+
+00:44:46.417 --> 00:44:51.822
+Others are like, well, you know, I still want to know where I rank for X keyword.
+
+00:44:51.822 --> 00:44:52.589
+So I'd love to get a little bit of a sense on how you're, how you're thinking about that.
+
+00:44:52.589 --> 00:44:55.726
+So I'd love to get a little bit of a sense on how you're, how you're thinking about that.
+
+00:44:55.726 --> 00:45:00.097
+It's a very timely question because I have that conversation with almost all of my clients.
+
+00:45:00.097 --> 00:45:07.638
+The goal is to drive more towards leading indicators like ranks, visibility, share of voice
+
+00:45:07.638 --> 00:45:12.676
+then lagging indicators like impressions and revenue impact.
+
+00:45:12.676 --> 00:45:14.078
+But it's very challenging.
+
+00:45:14.078 --> 00:45:16.013
+It's very, very challenging because...
+
+00:45:16.013 --> 00:45:21.752
+It's a big pitch and leadership loses a lot of control because clicks were such a good
+
+00:45:21.752 --> 00:45:24.988
+intermediary with this classic search funnel.
+
+00:45:24.988 --> 00:45:27.257
+You had the search, click, convert.
+
+00:45:27.257 --> 00:45:28.459
+Makes perfect sense.
+
+00:45:28.459 --> 00:45:33.764
+Now it's like search, read a lot, be influenced, and at some point come to the home page
+and sign up.
+
+00:45:33.764 --> 00:45:38.102
+It's a very disjointed broken funnel and accepting that is hard for leadership.
+
+00:45:38.102 --> 00:45:40.504
+It's a slow transition.
+
+00:45:40.504 --> 00:45:50.347
+And there are more leading indicators that I'm developing with my clients as a result to
+give a sense of control, right?.
+
+00:45:50.347 --> 00:45:55.586
+And look like, you know, there can also be... There's also a bigger focus on input.
+
+00:45:55.586 --> 00:45:59.323
+What are we actually doing to drive the needle, remove the needle?
+
+00:45:59.323 --> 00:46:01.125
+Are we meeting our targets in that sense?
+
+00:46:01.125 --> 00:46:03.794
+And then down the line, what's the downstream impact?
+
+00:46:03.794 --> 00:46:05.229
+What's the output?
+
+00:46:05.229 --> 00:46:09.500
+And also in lot of cases, it takes like a test or transition period
+
+00:46:09.500 --> 00:46:13.771
+because the reality is that things can still change very quickly.
+
+00:46:13.771 --> 00:46:18.742
+Don't forget, it's been about two and a half, a bit more, maybe two and three quarters 
+
+00:46:18.742 --> 00:46:23.814
+years since ChatGPT 3 came out and changed a lot.
+
+00:46:23.814 --> 00:46:29.520
+And then it's been about a year, maybe a bit more since AI overviews launched
+
+00:46:29.520 --> 00:46:31.488
+and the big impact really just came this year.
+
+00:46:31.488 --> 00:46:33.323
+So all of this is very fresh and new.
+
+00:46:33.323 --> 00:46:37.261
+And it's very hard to then say, OK, ah yesterday we saw this change.
+
+00:46:37.261 --> 00:46:39.363
+Today we're developing this new model of metrics.
+
+00:46:39.363 --> 00:46:42.666
+And tomorrow we're going to just stick to that.
+
+00:46:42.666 --> 00:46:43.934
+Things are going to change again.
+
+00:46:43.934 --> 00:46:46.136
+And that creates lot of uncertainty and mistrust from leadership.
+
+00:46:46.136 --> 00:46:48.772
+And that creates lot of uncertainty and mistrust from leadership.
+
+00:46:48.772 --> 00:46:52.776
+We're doing things like, again, measuring some of these leading and lagging indicators.
+
+00:46:52.776 --> 00:46:56.580
+We're trying to get more qualitative data from brand surveys,
+
+00:46:56.580 --> 00:47:01.084
+from user, market research, user interviews, all these kind of things.
+
+00:47:01.084 --> 00:47:03.687
+And then of course the big question is always like what comes out on the other end
+
+00:47:03.687 --> 00:47:06.423
+like what's the bottom line and that's the anchor point for leadership.
+
+00:47:06.423 --> 00:47:09.393
+That's what gives them more security, and shows them that as an as a team.
+
+00:47:09.393 --> 00:47:13.130
+We're not we don't want to move away from company impact, right?
+
+00:47:13.130 --> 00:47:16.500
+We're just changing the way that we're leading up to that.
+
+00:47:16.500 --> 00:47:19.236
+So again, challenging conversation takes out a pitching
+
+00:47:19.236 --> 00:47:24.441
+in a lot more metrics that we're now measuring to give that sense of Pseudo control I would say.
+
+00:47:24.441 --> 00:47:30.781
+I think the role of the marketing leadership in an organization has to change too.
+
+00:47:30.781 --> 00:47:34.017
+You need someone who's willing to take a little bit of risk right now
+
+00:47:34.017 --> 00:47:40.057
+willing to experiment, push a team to experiment, but also maybe spend a little less time
+
+00:47:40.057 --> 00:47:44.161
+in the day to day of leading and lagging metrics.
+
+00:47:44.161 --> 00:47:49.800
+Like maybe you only really need to review every three months or every six months with your team
+
+00:47:49.800 --> 00:47:53.503
+because the day to day is changing so quickly for us right now
+
+00:47:53.503 --> 00:47:55.873
+as a leader of an organization.
+
+00:47:55.873 --> 00:48:01.745
+It make a little sense to step back right now and just try to push your team to experiment
+
+00:48:01.745 --> 00:48:08.752
+ and as long as there's still this correlation to your marketing activity with that hero goal
+
+00:48:08.752 --> 00:48:11.788
+of a sale or a lead, as long as that correlation 
+
+00:48:11.788 --> 00:48:18.028
+is still moving in the right direction, do you back off a little bit right now in this time of transition?
+
+00:48:18.028 --> 00:48:23.634
+It would make sense because again, you have a slower time to impact.
+
+00:48:23.634 --> 00:48:28.071
+And so therefore it theoretically doesn't make sense as much to check in as often.
+
+00:48:28.071 --> 00:48:34.511
+However, at the same time, in times of uncertainty, leaders want to be a lot more involved, right?
+
+00:48:34.511 --> 00:48:38.415
+They want to make sure that the team figures out a plan
+
+00:48:38.415 --> 00:48:42.319
+and once they have trust in that plan, then they can step back.
+
+00:48:42.319 --> 00:48:44.454
+And so as a leader, I would do the same.
+
+00:48:44.454 --> 00:48:46.523
+I would be very, very involved right now.
+
+00:48:46.523 --> 00:48:53.030
+And I think a healthy balance is to say Ok, let's all kind of be in the weeds
+
+00:48:53.030 --> 00:48:57.467
+until we have a model that works and then let's take a step back.
+
+00:48:57.467 --> 00:49:02.306
+And so, it's obviously very uncomfortable, right, for lot of teams when the leader
+
+00:49:02.306 --> 00:49:06.209
+or the manager is like very deeply involved that can feel like high pressure.
+
+00:49:06.209 --> 00:49:06.677
+or the manager is like very deeply involved that can feel like high pressure.
+
+00:49:06.677 --> 00:49:10.514
+And at the same time, again, I get why that's happening.
+
+00:49:10.514 --> 00:49:16.386
+Best case scenario is you take maybe a four to six week sprint to hash out a new model
+
+00:49:16.386 --> 00:49:18.455
+or at least a plan for the next six months.
+
+00:49:18.455 --> 00:49:22.559
+I think 12 months planning is very hard right now, but maybe for the next six months.
+
+00:49:22.559 --> 00:49:25.996
+And you define, first of all, like how to measure, how to think about this new world
+
+00:49:25.996 --> 00:49:29.800
+and what experiments you want to do in these six months.
+
+00:49:29.800 --> 00:49:32.903
+And once you see that the team is gaining traction, right?
+
+00:49:32.903 --> 00:49:36.740
+They're active on Reddit, they're creating content, the refreshing content,
+
+00:49:36.740 --> 00:49:38.608
+they're shipping scheme or whatnot.
+
+00:49:38.608 --> 00:49:45.015
+Once you see that moving the needle, that's the time then to step back and say, okay, this is working, this is in a good place.
+
+00:49:45.015 --> 00:49:48.218
+Now I don't need to be on top of it as much.
+
+00:49:48.218 --> 00:49:53.657
+Now is the time to give the team some breathing room so they have the autonomy
+
+00:49:53.657 --> 00:49:57.995
+and the space to experiment and really bring this playbook over the finish line.
+
+00:49:57.995 --> 00:50:01.732
+But I think initially it does make sense for leaders to be involved.
+
+00:50:01.732 --> 00:50:04.735
+Also to reduce the time to decisions.
+
+00:50:04.735 --> 00:50:07.704
+to maybe get some of the necessary tooling on board
+
+00:50:07.704 --> 00:50:10.674
+basically unblock the team, and then step back.
+
+00:50:10.674 --> 00:50:11.975
+That's really good advice.
+
+00:50:11.975 --> 00:50:17.381
+I know we're bumping up against time, so maybe we'll jump to a couple of quick rapid fire round questions
+
+00:50:17.381 --> 00:50:19.916
+if you have another five minutes with us.
+
+00:50:19.916 --> 00:50:20.884
+OK, perfect.
+
+00:50:20.884 --> 00:50:21.985
+Let's start with...
+
+00:50:21.985 --> 00:50:29.126
+If you, speaking of content, if you had a choice of investing in maybe topic consolidation
+
+00:50:29.126 --> 00:50:35.065
+a new expert source or resource, or some sort of interactive explainer,
+
+00:50:35.065 --> 00:50:37.534
+which one would you focus on?
+
+00:50:37.534 --> 00:50:38.635
+Interactive explainer.
+
+00:50:38.635 --> 00:50:44.574
+In my experience, interactives like tool generators, quizzes, all that stuff
+
+00:50:44.574 --> 00:50:48.979
+is well received, drives conversion rates, can help with ranks,
+
+00:50:48.979 --> 00:50:53.850
+can have a positive conversion impact on lot of blog content and other page types.
+
+00:50:53.850 --> 00:50:56.253
+So I would go with interactives.
+
+00:50:56.253 --> 00:51:01.792
+What was the hardest part about moving from a situation where you have
+
+00:51:01.792 --> 00:51:08.565
+a lot of operational control, think like Shopify versus your more influence driven role today
+
+00:51:08.565 --> 00:51:09.332
+ as an advisor?
+
+00:51:09.332 --> 00:51:11.568
+What was the hardest part about that transition?
+
+00:51:11.568 --> 00:51:18.975
+For me, it was the ego attachment to the privilege that comes with
+
+00:51:18.975 --> 00:51:21.745
+being an in-house operator with a large team.
+
+00:51:21.745 --> 00:51:23.413
+You know, that was a big learning curve for me.
+
+00:51:23.413 --> 00:51:31.688
+I was very proud of being at that point and having that leverage and having large teams and scope.
+
+00:51:31.688 --> 00:51:33.757
+And I will say, I couldn't be happier today.
+
+00:51:33.757 --> 00:51:37.194
+A lot of pressure and responsibility comes with that.
+
+00:51:37.194 --> 00:51:39.529
+It’s incredibly energy draining
+
+00:51:39.529 --> 00:51:48.605
+and obviously realize that impact. And, you know, importance is not related to how many people you manage or the scope. Right?
+
+00:51:48.605 --> 00:51:50.674
+There is much, better ways to measure that.
+
+00:51:50.674 --> 00:51:53.543
+So I would say that was the biggest initial challenge for me to overcome.
+
+00:51:53.543 --> 00:51:56.346
+And I'm in an incredibly happy space today.
+
+00:51:56.346 --> 00:51:57.047
+That's amazing.
+
+00:51:57.047 --> 00:52:03.854
+I would guess as being a dad, having more control over your schedule is also a huge part of that.
+
+00:52:03.854 --> 00:52:06.923
+I definitely found that to be true on my side.
+
+00:52:07.357 --> 00:52:08.391
+Massive, massive.
+
+00:52:08.391 --> 00:52:15.966
+For me, it's so much more about leaning into the things that I thoroughly enjoy and the things that I'm strong in.
+
+00:52:15.966 --> 00:52:19.102
+That overlap is the sweet spot for me.
+
+00:52:19.169 --> 00:52:22.072
+Scheduling, yes, you're right.
+
+00:52:22.105 --> 00:52:24.307
+You have more agency over your schedule.
+
+00:52:24.307 --> 00:52:33.483
+And if you're a chronic overcommitter like myself, then that needs to be taken carefully.
+
+00:52:33.483 --> 00:52:34.284
+Yeah, definitely.
+
+00:52:34.284 --> 00:52:35.152
+Let's see.
+
+00:52:35.152 --> 00:52:36.920
+I know we only have another couple of minutes.
+
+00:52:36.920 --> 00:52:37.821
+What?
+
+00:52:37.821 --> 00:52:40.490
+You have a long list of accomplishments.
+
+00:52:40.490 --> 00:52:42.125
+Is there one that you're most proud of?
+
+00:52:42.125 --> 00:52:44.628
+Maybe one that you don't often talk about?
+
+00:52:44.628 --> 00:52:46.696
+Let's see, there's a couple.
+
+00:52:46.696 --> 00:52:51.134
+Last year I worked with Meta very closely.
+
+00:52:51.134 --> 00:52:53.203
+That was certainly amazing.
+
+00:52:53.236 --> 00:53:00.277
+Looking into some of the largest sites on the web and what moves needle there was incredible.
+
+00:53:00.277 --> 00:53:04.648
+I worked with the Ramp team very closely from 23 to 24.
+
+00:53:04.648 --> 00:53:05.649
+That was...
+
+00:53:05.649 --> 00:53:14.257
+incredibly rewarding that company is just, you know, like a rocket and they're doing amazing things.
+
+00:53:14.257 --> 00:53:16.826
+But you know, there's so many things that I'm proud of.
+
+00:53:16.826 --> 00:53:21.765
+There's also some like no name for... no name is probably unfair, but like
+
+00:53:21.765 --> 00:53:28.138
+less known or popular company that we were able to achieve tremendous results because they were just,
+
+00:53:28.138 --> 00:53:29.906
+you know, open to advice.
+
+00:53:29.906 --> 00:53:33.977
+There were implementing things very quickly and very receptive to recommendations
+
+00:53:33.977 --> 00:53:36.379
+and that was incredibly rewarding as well.
+
+00:53:36.379 --> 00:53:41.985
+So there's a lot that comes to mind and it's easy just pick out the kind of brands that are front and center.
+
+00:53:41.985 --> 00:53:44.588
+But I have to write you a long letter about this.
+
+00:53:45.422 --> 00:53:47.057
+Well, I'd love to read it.
+
+00:53:47.057 --> 00:53:47.524
+But you're right.
+
+00:53:47.524 --> 00:53:49.993
+I think being receptive to the recommendations, I think, is a huge part of what we do.
+
+00:53:49.993 --> 00:53:54.698
+I think being receptive to the recommendations, I think, is a huge part of what we do.
+
+00:53:54.698 --> 00:54:00.403
+We work with some clients who get recommendations or ask for them and then don't take action.
+
+00:54:00.403 --> 00:54:01.404
+That's really frustrating.
+
+00:54:01.404 --> 00:54:07.310
+So it's always fun to work with someone who's willing and open to testing things.
+
+00:54:07.310 --> 00:54:08.645
+All right, last one.
+
+00:54:08.645 --> 00:54:10.614
+What's your favorite exercise at the gym?
+
+00:54:11.881 --> 00:54:12.882
+It's a good question.
+
+00:54:12.882 --> 00:54:17.587
+I will probably say squats because
+
+00:54:17.587 --> 00:54:20.991
+they have outsized returns, but they can also be incredibly challenging.
+
+00:54:20.991 --> 00:54:27.731
+I think going under a heavy squat is nerve-wracking and...
+
+00:54:27.764 --> 00:54:32.869
+can make you really nervous and at the same time, you know, when you stand that thing up
+
+00:54:32.869 --> 00:54:34.337
+then it's an awesome feeling.
+
+00:54:34.337 --> 00:54:35.572
+So I'll go with squats.
+
+00:54:35.572 --> 00:54:36.373
+Very good, very good.
+
+00:54:36.373 --> 00:54:41.945
+Yeah, there's a sense of accomplishment of pushing a heavy weight through a squat for sure.
+
+00:54:41.945 --> 00:54:45.982
+All right, before we let you go, we'd like to ask a prediction question,
+
+00:54:45.982 --> 00:54:48.051
+something I'm sure you're thinking a lot about.
+
+00:54:48.051 --> 00:54:52.122
+But if you were to go to google.com in 12 months from now,
+
+00:54:52.122 --> 00:54:54.524
+what would you expect that experience to be?
+
+00:54:54.524 --> 00:54:58.295
+It's funny you asked that because if you were asking me about 24 months
+
+00:54:58.295 --> 00:55:03.900
+I would say it's probably starting with something like AI mode or web guides.
+
+00:55:03.900 --> 00:55:05.669
+12 months, I'm not sure we're ready yet.
+
+00:55:05.669 --> 00:55:10.473
+So I think in 12 months, we'll see the same kind of experience today.
+
+00:55:10.473 --> 00:55:16.279
+I would not be surprised if we're seeing more AI first experiences in the browser
+
+00:55:16.279 --> 00:55:19.549
+meaning, you know, today, you can already
+
+00:55:19.549 --> 00:55:24.220
+go to Gemini directly when you type add Gemini in your browser.
+
+00:55:24.220 --> 00:55:29.693
+And I think that Google will highlight that experience even more because they'd want
+
+00:55:29.693 --> 00:55:34.497
+they need to win this AI battle and they're going to put that more front and center.
+
+00:55:34.497 --> 00:55:40.236
+But the core search experience, besides again, AI overviews, AI mode, web guides doesn't change as much.
+
+00:55:40.236 --> 00:55:44.207
+But then in 24 to 36 months, unless something goes wrong
+
+00:55:44.207 --> 00:55:47.110
+I have a strong feeling we're to start on AI mode.
+
+00:55:47.110 --> 00:55:48.011
+Got it.
+
+00:55:48.011 --> 00:55:49.079
+Love it.
+
+00:55:49.079 --> 00:55:50.814
+Kevin Indig, everyone.
+
+00:55:50.880 --> 00:55:54.451
+Thanks for joining us on another exciting episode of the Page 2 Podcast.
+
+00:55:54.451 --> 00:55:58.988
+And remember to please remember to subscribe, rate, and review if you enjoyed the show.
+
+00:55:58.988 --> 00:56:00.323
+Thanks so much.
+
+00:56:00.323 --> 00:56:00.957
+This was fun.
+
+00:56:00.957 --> 00:56:02.359
+Thanks a lot.
+
