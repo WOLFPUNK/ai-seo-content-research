@@ -17,6 +17,7 @@ yt-dlp \
   --sub-lang en \
   --skip-download \
   --convert-subs srt \
+  --no-check-certificate \
   -o "$OUTDIR/$SLUG.%(ext)s" \
   "$VIDEO_URL"
 
